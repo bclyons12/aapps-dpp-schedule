@@ -42,6 +42,17 @@
             font-size: 1.1em;
         }
 
+        .disclaimer {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            color: #856404;
+            padding: 8px 12px;
+            border-radius: 4px;
+            font-size: 14px;
+            margin-top: 12px;
+            text-align: center;
+        }
+
         .controls {
             display: flex;
             justify-content: space-between;
@@ -301,6 +312,9 @@
         <div class="header">
             <h1>AAPPS-DPP 2025 Conference Schedule</h1>
             <p>Interactive Schedule Viewer</p>
+            <div class="disclaimer">
+                ⚠️ Please verify important details at <a href="https://www.aappsdpp.org/DPP2025" target="_blank" style="color: #007bff;">aappsdpp.org/DPP2025</a> as this page may contain errors or be out of date.
+            </div>
         </div>
 
         <div class="controls">
@@ -837,13 +851,13 @@
             // Update past/future status of talks
             if (currentDay) {
                 document.querySelectorAll('.talk-card').forEach(card => {
-                    const timeElement = card.querySelector('.talk-time');
-                    if (timeElement) {
-                        const isStarted = isTalkStarted(currentDay, timeElement.textContent);
+                    const talkId = card.getAttribute('data-talk-id');
+                    const talk = scheduleData[currentDay].find(t => getTalkId(t, currentDay) === talkId);
+                    if (talk) {
+                        const isStarted = isTalkStarted(currentDay, talk.Time);
                         card.classList.toggle('past', isStarted);
                         
                         // Update visibility if hide past talks is enabled
-                        const talkId = card.getAttribute('data-talk-id');
                         updateCardVisibility(card, talkId);
                     }
                 });
