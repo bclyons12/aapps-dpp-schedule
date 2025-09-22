@@ -1,0 +1,144 @@
+Session,Time,Duration,Room,Speaker,Affiliation,Title
+Plenary4,08:30,30,203+204,Yan Feng,Soochow University,From supercritical transition of dusty plasmas to diffusion mechanism of 2D fluids
+Plenary4,09:00,30,203+204,Ting Long,Southwestern Institute of Physics,Studies of cross phase in turbulent Reynolds stress and particle flux in the edge of tokamak plasma
+Plenary4,09:30,30,203+204,James Rosenzweig,UCLA Dept. of Physics and Astronomy,Plasma Wakefield Accelerators in Application: the Road to Discovery Science
+Plenary4,10:00,30,203+204,Mahendra Verma,Indian Institute of Technology Kanpur,Kolmogorov-like turbulence phenomenology in magnetohydrodynamics
+Plenary5,11:00,30,203+204,Mark Cheung,CSIRO,Data-driven Modelling of Solar Eruptive Flares
+Plenary5,11:30,30,203+204,Takahiro Miyoshi,Hiroshima University,Riemann solvers for MHD: 20 years of the HLLD solver and beyond
+Plenary5,12:00,30,203+204,Ya Zhang,Wuhan University of Technology,Numerical Study of RF Plasmas using PIC/MCC Simulations with External Circuitry
+Plenary5,12:30,30,203+204,Andreas Kirschner,Forschungszentrum Jülich GmbH,Review of prompt redeposition in fusion devices with focus on tungsten-based plasma-facing components
+A1-6: plasma processing and simulation/diagnostics,14:00,20,402+403,Kai Zhao,Dalian university of technology,Parameter dependences of charged particle dynamics and electron power absorption mode in dual-frequency capacitively coupled argon discharges
+A2-7: Bio Applications,14:00,20,405+406,Seong Ling Yap,Universiti Malaya,Scalable and Gas-Free Plasma Systems for Extreme Biofilm Eradication
+B1-8: Data Science,14:00,20,413,Sven Wiesen,DIFFER - Dutch Institute for Fundamental Energy Research,Data-driven models for fusion plasma exhaust: AI methods gaining maturity
+B2-5: Plasma fundamental II,14:00,20,504+505,Takuma Yamada,Kyushu University,Observation of transitions in meso-scale structures formed in plasma turbulence
+CD-5: Turbulence Spreading,14:00,40,401,Naoki Kenmochi,National Institute for Fusion Science,Experimental Identification of Local and Nonlocal Turbulence in Magnetically Confined Plasma
+F-7: Structure formation and nonlinear waves,14:00,20,414,Abhay Ram,Massachusetts Institute of Technology,Quantum computing approach to wave propagation in plasmas
+L1-5: EPS-AAPPS session,14:00,20,411,Gabriele Cristoforetti,"Intense Laser Irradiation Laboratory, INO-CNR",Experimental investigations of laser-plasma instabilities and of mitigation strategies at Shock Ignition laser intensities
+L2-5: Wakefield acceleration II,14:00,20,412,Ming Zeng,"Institute of High Energy Physics, Chinese Academy of Science",Production of small energy spread and high charge beams in laser wakefield accelerators
+MF1-5: Micrinstabilities and Confinement,14:00,20,409,Anders Henry Nielsen,technical University of Denmark,Simulating Edge Transport in MAST-U Using the FELTOR Code
+MF2-5: MHD and RMP effects on edge plasmas,14:00,20,410,Jekil Lee,Korea Institute of Fusion Energy,Title: Observation of symmetry-breaking by RMP-induced edge kink-like modes in KSTAR and their effects on density pump-out
+SA-5: Protoplanets and compact objects,14:00,20,502,Masahiro Machida,Kyushu University,Disk Formation and Magnetic Interchange Instability in Weakly Ionized Star-Forming Clouds
+SG-5: Sun,14:00,20,503,Ryo Kono,"Interdisciplinary Graduate School of Engineering Sciences, K",Plasma two-fluid simulation using Physics-Informed Neural Networks
+A1-6: plasma processing and simulation/diagnostics,14:20,20,402+403,Bocong Zheng,Beijing Institute of Technology,Transport analysis in capacitively coupled plasmas
+A2-7: Bio Applications,14:20,20,405+406,Shinya Kumagai,Meijo University,A micro perfusion system for promoted cell growth using plasma exposure through micro air-liquid interface
+B1-8: Data Science,14:20,20,413,Nitesh Bhatia,United Kingdom Atomic Energy Authority,"Visualising Fusion: Connecting Data, Design, and Discovery"
+B2-5: Plasma fundamental II,14:20,20,504+505,Taiki Kobayashi,Kyushu University,Tomographic observation of solitary wave deformation by nonlinear effects of background asymmetry
+F-7: Structure formation and nonlinear waves,14:20,20,414,Toseo Moritaka,National Institute for Fusion Science,Plasma structure formation in relativistic and non-relativistic beam interactions with magnetized plasma
+L1-5: EPS-AAPPS session,14:20,20,411,Chiharu Nakatsuji,"Institute of Laser Engineering, The University of Osaka",Effects of density scale-length on laser–plasma instabilities and hot-electron generation for shock-ignition laser fusion
+L2-5: Wakefield acceleration II,14:20,20,412,Nadezda Bobrova,Czech Technical University in Prague,Capillary discharge plasma channels for laser pulse guiding and active lensing charged particle beams
+MF1-5: Micrinstabilities and Confinement,14:20,20,409,Chao Li,Peking University,Numerical Extraction of Nearest Canonical Equilibrium Distribution via Natural Gradient Descent method
+MF2-5: MHD and RMP effects on edge plasmas,14:20,20,410,Neng Zhang,Southwestern Institute of Physics,Linear and quasi-linear toroidal modeling of resonant magnetic perturbations during ELM mitigation in HL-3 tokamak
+SA-5: Protoplanets and compact objects,14:20,20,502,Yun-Wei Yu,Central China Normal University,Eclipsed X-ray Bursts and Fast Radio Burst Activity of Magnetar SGR J1935+2154
+SG-5: Sun,14:20,20,503,Ryoya Sakata,"Research Center for Advanced Science and Technology, The Uni",Effects of a planetary magnetic field on ion escape from ancient Mars based on 3D global multifluid MHD simulations
+A1-6: plasma processing and simulation/diagnostics,14:40,20,402+403,Masaya Shigeta,Tohoku University,The Difficulty and Charm of Computational Plasma Fluid Mechanics
+A2-7: Bio Applications,14:40,20,405+406,Ram Prakash,Indian Institute of Technology Jodhpur,Non-equilibrium Cold Plasma Technologies for Health and Environmental Applications
+B1-8: Data Science,14:40,20,413,Adriano Agnello,UK Science and Technology Facilities Council,AI and data solutions for experiment design and control
+B2-5: Plasma fundamental II,14:40,20,504+505,Ramesh Narayanan,Indian Institute of Technology Delhi,Exploring the Potential of an ECR Source for Large-Area Hydrogen Negative Ion Production in Fusion Applications
+CD-5: Turbulence Spreading,14:40,20,401,Taik Soo Hahm,Seoul national University,Application of Momentum Theorem to magnetized Plasma
+F-7: Structure formation and nonlinear waves,14:40,20,414,Andreas Bierwage,QST,Long-lived density spikes in laser-driven Coulomb explosion folds
+L1-5: EPS-AAPPS session,14:40,20,411,Michael Lavell,University of Rochester,Kinetic simulations of fusion burn propagation
+L2-5: Wakefield acceleration II,14:40,20,412,Xinzhe Zhu,"School of Physics and Astronomy, Shanghai Jiao Tong Universi",High energy electron acceleration and mid-infrared radiation in curved plasma channel
+MF1-5: Micrinstabilities and Confinement,14:40,20,409,Dongmei Fan,Southwestern Institute of Physics,Impact of Resonant Magnetic Perturbations on ELM Mitigation and Impurity Transport in HL-3 H-mode Plasmas
+MF2-5: MHD and RMP effects on edge plasmas,14:40,20,410,Jian Xu,Dalian University of Technology,Deep learning based plasma response models to 3D external magnetic field perturbations in EAST
+SA-5: Protoplanets and compact objects,14:40,20,502,Ashley Bransgrove,Princeton University,Extreme Plasma Physics of Neutron Stars
+SG-5: Sun,14:40,20,503,Gang Li,Macau University of Science and Technology,Effect of Forbush Decrease on Global Electric Circuit
+A1-6: plasma processing and simulation/diagnostics,15:00,20,402+403,Ho Jun Kim,Hanyang University,Analysis of stagnation point flow within an inductively coupled plasma reactor for the enhancement of deposition methodologies
+A2-7: Bio Applications,15:00,15,405+406,Jaroslav Kristof,Shizuoka University,Reactive oxygen species influence on plasma-treated HL-60 cells
+B1-8: Data Science,15:00,20,413,Samuel Jackson,UKAEA,Towards Open Machine Learning Datasets with AI Driven Annotation
+B2-5: Plasma fundamental II,15:00,20,504+505,Zijia Chu,Harbin Institute of Technology,Dynamic characteristics and formation mechanism of the complex dynamics in subnormal glow discharge systems: Mixed-mode oscillations and period-adding bifurcation
+CD-5: Turbulence Spreading,15:00,20,401,Katsumi Ida,National Institute for Fusion Science,Non-local transport nature revealed by experiments in toroidal plasmas
+F-7: Structure formation and nonlinear waves,15:00,20,414,Chenxu Wang,National Institute for Fusion Science,Numerical Investigations on Propagation Characteristics of Millimeter-wave Vortex in Magnetized Plasma
+L1-5: EPS-AAPPS session,15:00,20,411,Jieru Ren,Xi’an Jiaotong University,A robust method to generate brilliant electrons through laser interaction with NCD plasma converted from hohlraum radiation of foam target
+L2-5: Wakefield acceleration II,15:00,20,412,Gabriele Maria Grittani,"ELI Beamlines Facility, The Extreme Light Infrastructure ERI",High energy High repetition rate electron beams at ELI Beamlines
+MF1-5: Micrinstabilities and Confinement,15:00,20,409,Akihide Fujisawa,Kyushu University,Review and Prospect of Plasma Turbulence Observatory
+MF2-5: MHD and RMP effects on edge plasmas,15:00,20,410,Xinliang Xu,Southwest institutes of Physics,Advancing Pedestal Stability Prediction Through Integrated Equilibrium and ReSISTIVE MHD Modeling
+SA-5: Protoplanets and compact objects,15:00,20,502,Shigeo Kimura,Tohoku University,Non-thermal Phenomena in Strongly Magnetized Accretion Flows around Black Holes
+SG-5: Sun,15:00,20,503,Saba Gondal,University of Engineering and Technology Lahore,Relaxed magnetic structures in the Saturn’s ring
+A2-7: Bio Applications,15:15,15,405+406,Hirofumi Kurita,Toyohashi University of Technology,Enhancement of cell death by combination of cold atmospheric plasma irradiation and pulsed electric field application
+A1-6: plasma processing and simulation/diagnostics,15:20,20,402+403,Sanghoo Park,Korea Advanced Institute of Science and Technology (KAIST,Practical issues in tomographic reconstruction of semiconductor processing plasmas
+B1-8: Data Science,15:20,15,413,Riccardo Rossi,"Università degli Studi di Roma ""Tor Vergata""",Integrating Deep Learning with Plasma Physics for Accurate and Reliable Multi-Diagnostic and Time-Constrained Inverse Problem Methodologies in Nuclear Fusion
+B2-5: Plasma fundamental II,15:20,15,504+505,Donatella Fiorucci,"ENEA, Research Center Frascati",Photo-neutralization-based NBI systems for Nuclear Fusion Power Plants
+CD-5: Turbulence Spreading,15:20,20,401,Yusuke Kosuga,Kyushu Univ.,Avalanches in magnetic fusion and their efficacy for the heat load problem
+F-7: Structure formation and nonlinear waves,15:20,20,414,Raffael Düll,"M2P2, Aix-Marseille Université, CNRS",Electromagnetic turbulence simulations in edge plasma with the SOLEDGE3X code
+L2-5: Wakefield acceleration II,15:20,15,412,Yan-Jun Gu,Osaka University,Generation of Highly Stable Electron Beam in LWFA via Shock Injection
+MF1-5: Micrinstabilities and Confinement,15:20,20,409,Gabriele Merlo,Max Planck institute for Plasma Physics,Global gyrokinetic multiscale pedestal simulations with the GENE code
+MF2-5: MHD and RMP effects on edge plasmas,15:20,20,410,Guoliang Xiao,southwestern institute of physics,Advancements in SMBI Technology for Fusion Reactor Fueling Framework: AI - Driven Innovations and Physical Insights
+SA-5: Protoplanets and compact objects,15:20,20,502,Akihiro Inoue,University of Tokyo,Three-Dimensional General Relativistic Radiation Magnetohydrodynamic Simulations of Supercritical Accretion onto a Magnetized Neutron Star
+SG-5: Sun,15:20,15,503,Andrea Larosa,ISTP-CNR,Wavelet-based modeling of the heliospheric turbulent magnetic field
+A2-7: Bio Applications,15:30,15,405+406,Bhargavi Sharma,"Department of Biotechnology, Delhi Technological University",Dielectric Modulated Triple Metal- Plasma Assisted - Carbon Nanotube Field Effect Transistor (TM-PA-CNTFET) Biosensor for Detection of Various Biomolecules
+B1-8: Data Science,15:35,15,413,Yong Xiao,Zhejiang University,AI Surrogate Model for Turbulent Transport in Tokamak Plasmas Using Gyrokinetic Simulation Data and Machine Learning
+A1-6: plasma processing and simulation/diagnostics,15:40,20,402+403,Haruka Suzuki,Nagoya University,Reconstruction of three-dimensional structure of plasma emission using multi-directional imaging
+CD-5: Turbulence Spreading,15:40,20,401,Hijiri Sugiyama,"Department of Physics, Nagoya University",Avalanche-like heat transport events related to microscopic turbulent vortex dynamics
+F-7: Structure formation and nonlinear waves,15:40,15,414,Jawon Jo,"Division of Semiconductor Engineering, Myongji University",MD simulations for oscillatory behavior of non-Maxwellian fluid moments in a magnetized plasma
+MF1-5: Micrinstabilities and Confinement,15:40,20,409,Feng Wang,Dalian University of Technology,Application of Particle Orbit Tracking Model in Tokamak Buring Plasmas
+MF2-5: MHD and RMP effects on edge plasmas,15:40,15,410,Shengbo Zhao,"Institute of Plasma Physics, Chinese Academy of Sciences",Plasma Disruption Mitigation Features Using MGI and SPI on the EAST Device
+SA-5: Protoplanets and compact objects,15:40,15,502,Kanta Kitajima,Nagoya University,Particle-Based Analysis of Relativistic Jet
+MF2-5: MHD and RMP effects on edge plasmas,15:55,15,410,Li Li,Chinese Academy of Sciences Institute of Plasma Physics,Effects on characteristics of plasma disruption mitigation using shattered pellet injection on EAST
+MF1-5: Micrinstabilities and Confinement,16:00,15,409,Trivesh Kant,Institute for Plasma Research,Axisymmetric studies of Avalanche generation and Termination mechanisms for Runaway Electrons in ITER
+A1-7: Plasma catalyist/surface interaction,16:20,20,402+403,Sirui Li,Eindhoven University of TEchnology,Integrated Process for Carbon Valorization Using Plasma-Sorbent Systems
+A2-8: Medical Applications,16:30,20,405+406,Hideo Fukuhara,Kochi medical school,Immune response induced by atmospheric pressure low-temperature plasma for bladder cancer
+B1-9: Data Science,16:30,20,413,Yuya Morishita,"Department of Nuclear Engineering, Kyoto University",Adaptive model predictive control of fusion plasma based on data assimilation system ASTI
+B2-6: Dusty plasma III,16:30,20,504+505,Hanno Kaehlert,Kiel University,Dielectric response and collective modes of strongly coupled plasmas
+CD-6: Helical and Twisted,16:30,40,401,Zhihong Lin,"University of California, Irvine",Geometry effects on zonal flows and radial electric fields in optimized stellarators
+F-8: Global simulations and kinetic modeling,16:30,20,414,Farah Atour,Max Planck Institute for Plasma Physics,Nonlinear dynamics of toroidal Alfvén eigenmodes driven by trapped energetic particles
+HEDP-1: Physics of matter and hydro processes in high energy density plasmas,16:30,30,404,Ryunosuke Takizawa,"Institute of Laser Engineering, Osaka University",Experimental Investigation of Fast Ignition Toward High-Efficiency Ignition
+L1-6: ICF/IFE,16:30,20,411,Clément Goyon,Lawrence Livermore National Laboratory,A cohesive U.S. strategy to achieving Inertial Fusion Energy
+L2-6: Chandrasekhar session,16:30,20,412,Pisin Chen,National Taiwan University,Laser cosmology- a brief review and a few examples
+PB: Advancements in hydrogen boron fusion,16:30,20,410,Yueng-Kay Martin Peng,"ENN Science and Technology Development Corp., Ltd.","EXL-50U Experiments, Addressing Key Physics Issues for Future Spherical Torus Proton-Boron Reactors"
+A1-7: Plasma catalyist/surface interaction,16:40,20,402+403,Peter Bruggeman,University of Minnesota,"Plasma Interactions at the Interface with Liquids, Nanoparticles and Catalytic Surfaces"
+MF1-6: Energetic Particle Physics & Micro-instabilitite,16:40,20,409,Francesco Porcelli,Polytechnic University of Turin,Vertical Displacement Oscillatory Modes driven by Fast Ions in Tokamak Plasmas
+A2-8: Medical Applications,16:50,20,405+406,Jamoliddin Razzokov,"Institute of Fundamental and Applied Research, National Rese",Cold Atmospheric Plasma as a Modulator of Immune Checkpoints: Targeting PD-1 and PD-L1/PD-L2 interaction via Molecular Dynamics
+B1-9: Data Science,16:50,20,413,Zongyu Yang,Southwestern Institute of Physics,FusionMAE: large-scale pretrained model to optimize and simplify diagnostic and control of fusion plasma
+B2-6: Dusty plasma III,16:50,20,504+505,Chengxun Yuan,"School of Physics, Harbin Institute of Technology",Measurement of Microwave Propagation in Periodically Structured Dusty Plasma
+F-8: Global simulations and kinetic modeling,16:50,20,414,Panith Adulsiriswad,National Institute for Quantum Science and Technology,Effects of Fusion-born Alpha Particles on Helical Core in ITER Hybrid Scenario
+L1-6: ICF/IFE,16:50,20,411,Neil Alexander,General Atomics,Target Fabrication for Inertial Fusion Energy
+L2-6: Chandrasekhar session,16:50,20,412,Bernhard Hidding (Presented by James Rosenberg),Heinrich Heine University Düsseldorf,Hybrid Laser-Plasma Wakefield Acceleration: Harnessing the Best of Both Worlds
+PB: Advancements in hydrogen boron fusion,16:50,20,410,Kunihiro Ogawa,National Institute for Fusion Science,Demonstration of aneutronic p-11B reaction in a magnetic confinement device
+A1-7: Plasma catalyist/surface interaction,17:00,20,402+403,Liguang Dou,"Institute of Electrical Engineering, Chinese Academy of Scie",Synergistic promotion of vibrant H radicals and targeted Cu/MgAlO interface for CO2 hydrogenation by non-thermal plasma
+HEDP-1: Physics of matter and hydro processes in high energy density plasmas,17:00,30,404,Chihiro Matsuoka,Osaka Metropolitan University,A rotation-free vortex solution in special and general relativistic hydrodynamics
+MF1-6: Energetic Particle Physics & Micro-instabilitite,17:00,20,409,Yang Li,Southwestern Institute of Physics,Kinetic research on energetical particle modes in burning fusion plasmas
+A2-8: Medical Applications,17:10,20,405+406,Zhitong Chen,"Shenzhen Institute of Advanced Technology, Chinese Academy o",Plasma delivery systems for cancer treatment
+B1-9: Data Science,17:10,20,413,Yue Yu,"Institute of Plasma Physics, Chinese Academy of Sciences",Real-Time Detachment Forecaster: Decoding X-Point Radiation in Impurity-Seeded Plasmas
+B2-6: Dusty plasma III,17:10,20,504+505,Sanat Kumar Tiwari,Indian Institute of Technology Jammu,Turbulence characteristics in dusty plasma
+CD-6: Helical and Twisted,17:10,20,401,Won-Ha Ko,Korea Institute of Fusion Energy,Non-axisymmetric magnetic fields effect on rotation and turbulence in KSTAR
+F-8: Global simulations and kinetic modeling,17:10,20,414,Zhiwen Cheng,Zhejiang University & National Institute for Fusion Science,Nonlinear saturation of toroidal Alfvén eigenmode via ion induced scattering in nonuniform plasmas
+L1-6: ICF/IFE,17:10,20,411,Mayuko Koga,"Graduate School of Engineering, University of Hyogo",Development of Fuel Target Injection Systems for Fast Ignition
+L2-6: Chandrasekhar session,17:10,20,412,Lance Labun,"University of Texas, Austin",Particle production and vacuum structure in QED
+PB: Advancements in hydrogen boron fusion,17:10,20,410,Bing Liu,ENN Energy Research Institute,Progress of p-11B Research for Fusion Energy at ENN
+A1-7: Plasma catalyist/surface interaction,17:20,20,402+403,Zheng Yang,"School of Physics, Dalian University of Technology",High efficiency NOx synthesis and regulation using dielectric barrier discharge in the needle array packed bed reactor
+MF1-6: Energetic Particle Physics & Micro-instabilitite,17:20,20,409,Liming Yu,Southwestern Institute of Physics,Experiment and simulation results of interactions between energetic ions and tearing modes on HL-2A tokamak
+A2-8: Medical Applications,17:30,20,405+406,Hajime Sakakita,Meijo University,International Standard for Commercialization as Regulatory Science
+B1-9: Data Science,17:30,15,413,Ryota Yoneda,NTT Space Environment and Energy Laboratories,Offline Reinforcement Learning by Decision Transformer for Tokamak Plasma Control
+B2-6: Dusty plasma III,17:30,20,504+505,Chenyao Jin,"Hefei Institutes of Physical Science, CAS",The frequency limits of plasma response to pulsed ion acoustic wave excitation in a multi-dipole confined hot cathode discharge
+CD-6: Helical and Twisted,17:30,20,401,Lai Wei,Dalian University of Technology,Effects of RMP on edge–core turbulence spreading and coupling in a tokamak plasma
+F-8: Global simulations and kinetic modeling,17:30,20,414,Wenjie Sun,"Institute of Physics, Chinese Academy of Sciences",Global gyrokinetic particle simulation of kinetic ballooning modes with energetic ions
+HEDP-1: Physics of matter and hydro processes in high energy density plasmas,17:30,30,404,Patrick Diamond,UC San Diego,How the Tail Wags the Dog: On Voids and the Physics of Edge-Core Coupling in Confined Plasmas
+L1-6: ICF/IFE,17:30,15,411,Aurélia Maïolo,"CELIA, University of Bordeaux-CNRS-CEA",Design of ICF Targets for Energy Production - TARANIS Project
+L2-6: Chandrasekhar session,17:30,20,412,Zhengming Sheng (Presented by Min Chen),Shanghai Jiao Tong University,Brilliant gamma-ray emission driven by laser and electron beams in plasma
+PB: Advancements in hydrogen boron fusion,17:30,20,410,Yangchun Liu,Zhejiang University,Energize Hydrogen and Boron Ions via Beam-Driven Ion Bernstein Waves
+A1-7: Plasma catalyist/surface interaction,17:40,15,402+403,Pedro Viegas,Instituto Superior Técnico - Universidade de Lisboa,Oxygen loss frequency and recombination probability in oxygen-containing plasmas
+MF1-6: Energetic Particle Physics & Micro-instabilitite,17:40,15,409,Juan Ruiz Ruiz,University of Oxford,Assessing the effect of energetic-particle-driven modes on fusion power gain in burning plasmas
+B1-9: Data Science,17:45,15,413,Wenchong Yao,"Institutes of Physical Science and Information Technology, K",Multi-modal Data Fusion for Tearing Mode Parameter Prediction Based on Multi-task Contrastive Learning
+L1-6: ICF/IFE,17:45,15,411,Qianlei Du,dql_2021@sjtu.edu.cn,Machine Learning Optimization of Room-Temperature Target for Laser Inertial Fusion Energy
+A2-8: Medical Applications,17:50,15,405+406,Jalaj Jain,Comisión Chilena de Energía Nuclear,Ultra high-dose rate X-ray pulses emitted from a kilojoule plasma focus device induce larger cancer cell deaths than the conventional X-ray irradiation: Preliminary single dose and fractionation studies
+CD-6: Helical and Twisted,17:50,20,401,Yao Zhou,Shanghai Jiao Tong University,Benign saturation of ideal ballooning instability in a high-performance stellarator
+F-8: Global simulations and kinetic modeling,17:50,20,414,Jian Bao,"Institute of Physics, Chinese Academy of Sciences",Global simulation of drift-Alfven wave instability based on kinetic-MHD hybrid model in general geometry
+L2-6: Chandrasekhar session,17:50,20,412,Yasuhiro Kuramitsu,Osaka University,Model experiments of cosmic ray acceleration using intense lasers
+PB: Advancements in hydrogen boron fusion,17:50,20,410,Yongtao Zhao,Xi'an Jiaotong University,Proton-boron nuclear reaction in plasma initiated by laser-accelerated protons both in pitcher-catcher and in-target scheme
+A1-7: Plasma catalyist/surface interaction,17:55,15,402+403,Monika Verma,Delhi Technological University,Effect of Plasma Process Parameters on the Electrical Characteristics of Dual-Gate Graphene Field-Effect Transistors
+MF1-6: Energetic Particle Physics & Micro-instabilitite,17:55,15,409,Xiangfeng Wu,Dalian University of Technology,Simulations of fusion reactions under thermal and non-thermal equilibrium distributions in tokamaks
+B1-9: Data Science,18:00,15,413,Runyu Luo,Huazhong University of Science and Technology,A Preliminary Investigation into the Prediction of Tearing Mode Evolution Using Deep Learning
+HEDP-1: Physics of matter and hydro processes in high energy density plasmas,18:00,30,404,Yasuhide Fukumoto,"Institute of Mathematics for Industry, Kyushu University, Os","Nambu Bracket, isomagnetovortical perturbations and wave energy for compressible baroclinic MHD"
+A2-8: Medical Applications,18:05,15,405+406,Kazuo Shimizu,Shizuoka University,Application of Atmospheric Microplasma for Nose to Brain Drug Delivery
+A1-7: Plasma catalyist/surface interaction,18:10,15,402+403,Abhijit Mishra,Indian Institute of Technology Jodhpur,Variations in Discharge Characteristics of Bipolar Pulsed Cold Atmospheric Plasma Jets Induced by Liquid Conductivity
+CD-6: Helical and Twisted,18:10,15,401,Yvonne Ban,Nanyang Technological University,Effect of helical perturbations on magnetic braking and neoclassical transport in tokamak plasmas
+F-8: Global simulations and kinetic modeling,18:10,15,414,Shrish Raj,Nanyang Technological University Singapore,Electromagnetic simulations of Toroidal Alfvén Eigenmode (TAE) using GYSELA
+L2-6: Chandrasekhar session,18:10,20,412,Spencer Gessner,SLAC National Accelerator Laboratory,Review of Beam-Driven Plasma Wakefield Experiments at SLAC
+MF1-6: Energetic Particle Physics & Micro-instabilitite,18:10,15,409,Kensho Takenaka,"Graduate School of Energy Science, Kyoto University",Analysis of Beta Dependence of Microinstabilities in Realistic Configurations Using Global Gyrokinetic Simulations
+PB: Advancements in hydrogen boron fusion,18:10,20,410,Dimitri Batani,University of Bordeaux,Progress on laser-driven experiments on Proton-Boron Fusion
+F-8: Global simulations and kinetic modeling,18:25,15,414,Shabbir Ahmad Khan,"National Centre for Physics, QAU Campus",Kinetic modeling of vortex-type plasma modes carrying orbital angular momentum
+MF1-6: Energetic Particle Physics & Micro-instabilitite,18:25,15,409,Oleg Krutkin,EPFL-SPC,Gyrokinetic simulations of core turbulence in a reference JT-60SA scenario
+HEDP-1: Physics of matter and hydro processes in high energy density plasmas,18:30,30,404,Takayoshi Sano,The University of Osaka,Mitigation of Interfacial Instabilities in Magnetized Plasmas
+PB: Advancements in hydrogen boron fusion,18:30,20,410,Dong Wu,Shanghai JiaoTong University,Quantum degenerate plasmas: particle-in-cell simulation method and the role to increase beam-target p-11B fusions
+MF1-6: Energetic Particle Physics & Micro-instabilitite,18:40,15,409,Sagar Choudhary,Institute for Plasma Research,Density gradient driven transport in LTX-like plasma due to Ubiquitous Mode
+MF1-6: Energetic Particle Physics & Micro-instabilitite,18:55,15,409,Chien-Chung Hsu,National Central University,An improved analytical theory of ion temperature gradient instability in tokamak plasmas

@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-store">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <title>AAPPS-DPP 2025 Conference Schedule</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f8f9fa;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            color: #666;
+            font-size: 1.1em;
+        }
+
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+
+        .day-tabs {
+            display: flex;
+            gap: 5px;
+            flex-wrap: wrap;
+        }
+
+        .day-tab {
+            padding: 10px 16px;
+            border: none;
+            background: #e9ecef;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+
+        .day-tab:hover {
+            background: #dee2e6;
+        }
+
+        .day-tab.active {
+            background: #007bff;
+            color: white;
+        }
+
+        .filter-controls {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            padding: 10px 16px;
+            border: 1px solid #007bff;
+            background: white;
+            color: #007bff;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.2s;
+            white-space: nowrap;
+        }
+
+        .filter-btn:hover {
+            background: #007bff;
+            color: white;
+        }
+
+        .filter-btn.active {
+            background: #007bff;
+            color: white;
+        }
+
+        .current-time {
+            font-size: 14px;
+            color: #666;
+            font-weight: 500;
+        }
+
+        .day-content {
+            display: none;
+        }
+
+        .day-content.active {
+            display: block;
+        }
+
+        .talk-grid {
+            display: grid;
+            gap: 12px;
+        }
+
+        .talk-card {
+            background: white;
+            border-radius: 8px;
+            padding: 16px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            border-left: 4px solid #007bff;
+            transition: all 0.2s;
+        }
+
+        .talk-card:hover {
+            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+        }
+
+        .talk-card.past {
+            opacity: 0.6;
+            color: #666;
+        }
+
+        .talk-card.past .talk-title {
+            color: #999;
+        }
+
+        .talk-card.checked {
+            background-color: #e8f4fd;
+            border-left-color: #0066cc;
+        }
+
+        .talk-card.hidden {
+            display: none;
+        }
+
+        .talk-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 8px;
+        }
+
+        .talk-checkbox {
+            width: 18px;
+            height: 18px;
+            cursor: pointer;
+            flex-shrink: 0;
+        }
+
+        .talk-meta {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            flex-wrap: wrap;
+            flex: 1;
+        }
+
+        .talk-time {
+            font-size: 16px;
+            font-weight: 600;
+            color: #007bff;
+            min-width: 60px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .talk-duration {
+            font-size: 12px;
+            font-weight: 500;
+            color: #6c757d;
+            background: #f8f9fa;
+            padding: 2px 6px;
+            border-radius: 12px;
+            white-space: nowrap;
+        }
+
+        .talk-room {
+            background: #e9ecef;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 500;
+        }
+
+        .talk-session {
+            background: #f8f9fa;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            color: #666;
+        }
+
+        .talk-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #2c3e50;
+            line-height: 1.4;
+            flex: 1;
+        }
+
+        .talk-speaker-info {
+            margin-left: 30px;
+            font-size: 14px;
+            color: #495057;
+        }
+
+        .talk-affiliation {
+            color: #6c757d;
+            font-style: italic;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+
+        .error {
+            text-align: center;
+            padding: 40px;
+            color: #dc3545;
+            background: #f8d7da;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+            }
+
+            .controls {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .day-tabs {
+                justify-content: center;
+            }
+
+            .filter-controls {
+                justify-content: space-between;
+                flex-wrap: wrap;
+            }
+
+            .talk-meta {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 8px;
+            }
+
+            .talk-time {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 4px;
+                min-width: auto;
+            }
+
+            .talk-title {
+                order: 1;
+                width: 100%;
+            }
+
+            .talk-session {
+                order: 2;
+            }
+
+            .talk-speaker-info {
+                margin-left: 0;
+                margin-top: 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>AAPPS-DPP 2025 Conference Schedule</h1>
+            <p>Interactive Schedule Viewer</p>
+        </div>
+
+        <div class="controls">
+            <div class="day-tabs" id="dayTabs">
+                <!-- Day tabs will be generated by JavaScript -->
+            </div>
+            <div class="filter-controls">
+                <div class="current-time" id="currentTime"></div>
+                <button class="filter-btn active" id="hidePastBtn" onclick="toggleHidePast()">
+                    Hide past talks
+                </button>
+                <button class="filter-btn" id="filterBtn" onclick="toggleFilter()">
+                    Show only checked talks
+                </button>
+                <button class="filter-btn" id="shareBtn" onclick="shareSelections()">
+                    Share Selections
+                </button>
+            </div>
+        </div>
+
+        <div id="content">
+            <div class="loading">Loading conference data...</div>
+        </div>
+    </div>
+
+    <script>
+        let scheduleData = {};
+        let talkIndex = {}; // Map talk ID to index
+        let indexToTalk = {}; // Map index to talk ID
+        let checkedBitmap = null; // Base64 URL-safe string representing checked talks
+        let showOnlyChecked = false;
+        let hidePastTalks = true;
+        let currentDay = null;
+        let totalTalks = 0;
+
+        // Bitmap operations for Base64 URL-safe encoding
+        function createEmptyBitmap(numBits) {
+            const numBytes = Math.ceil(numBits / 8);
+            const bytes = new Uint8Array(numBytes);
+            return uint8ArrayToBase64Url(bytes);
+        }
+
+        function setBitInBase64(base64String, bitIndex, value) {
+            const bytes = base64UrlToUint8Array(base64String);
+            const byteIndex = Math.floor(bitIndex / 8);
+            const bitOffset = bitIndex % 8;
+            
+            // Ensure we have enough bytes
+            if (byteIndex >= bytes.length) {
+                const newBytes = new Uint8Array(byteIndex + 1);
+                newBytes.set(bytes);
+                bytes = newBytes;
+            }
+            
+            const mask = 1 << bitOffset;
+            if (value) {
+                bytes[byteIndex] |= mask;
+            } else {
+                bytes[byteIndex] &= ~mask;
+            }
+            
+            return uint8ArrayToBase64Url(bytes);
+        }
+
+        function getBitFromBase64(base64String, bitIndex) {
+            const bytes = base64UrlToUint8Array(base64String);
+            const byteIndex = Math.floor(bitIndex / 8);
+            const bitOffset = bitIndex % 8;
+            
+            if (byteIndex >= bytes.length) return false;
+            
+            return (bytes[byteIndex] & (1 << bitOffset)) !== 0;
+        }
+
+        // Base64 URL-safe encoding/decoding functions
+        function uint8ArrayToBase64Url(bytes) {
+            // Convert to regular base64 first
+            let binary = '';
+            for (let i = 0; i < bytes.length; i++) {
+                binary += String.fromCharCode(bytes[i]);
+            }
+            let base64 = btoa(binary);
+            
+            // Convert to URL-safe: + -> -, / -> _, remove padding =
+            return base64.replace(/\+/g, '-').replace(/\//g, '_').replace(/=/g, '');
+        }
+
+        function base64UrlToUint8Array(base64Url) {
+            // Convert URL-safe back to regular base64
+            let base64 = base64Url.replace(/-/g, '+').replace(/_/g, '/');
+            
+            // Add padding if needed
+            while (base64.length % 4 !== 0) {
+                base64 += '=';
+            }
+            
+            // Decode and convert to Uint8Array
+            const binary = atob(base64);
+            const bytes = new Uint8Array(binary.length);
+            for (let i = 0; i < binary.length; i++) {
+                bytes[i] = binary.charCodeAt(i);
+            }
+            return bytes;
+        }
+
+        // Create stable index for each talk
+        function createTalkIndexes() {
+            let index = 0;
+            talkIndex = {};
+            indexToTalk = {};
+            
+            // Sort all talks by date, time, then speaker for stable ordering
+            const allTalks = [];
+            Object.keys(scheduleData).forEach(day => {
+                scheduleData[day].forEach(talk => {
+                    const talkId = getTalkId(talk, day);
+                    allTalks.push({id: talkId, day, talk});
+                });
+            });
+            
+            allTalks.sort((a, b) => {
+                if (a.day !== b.day) return a.day.localeCompare(b.day);
+                if (a.talk.Time !== b.talk.Time) return a.talk.Time.localeCompare(b.talk.Time);
+                return a.talk.Speaker.localeCompare(b.talk.Speaker);
+            });
+            
+            allTalks.forEach(({id}) => {
+                talkIndex[id] = index;
+                indexToTalk[index] = id;
+                index++;
+            });
+            
+            totalTalks = index;
+            console.log(`Indexed ${totalTalks} talks`);
+        }
+
+        // Load checked talks from localStorage or URL
+        function loadCheckedTalks() {
+            // First check URL parameters
+            const urlParams = new URLSearchParams(window.location.search);
+            const urlSelections = urlParams.get('selections');
+            
+            if (urlSelections) {
+                checkedBitmap = urlSelections;
+                console.log('Loaded selections from URL:', urlSelections.length, 'chars');
+                // Save this to localStorage as the latest
+                localStorage.setItem('aapps-dpp-checked-base64', urlSelections);
+                return;
+            }
+            
+            // No URL parameter - check if we should auto-add one from localStorage
+            const saved = localStorage.getItem('aapps-dpp-checked-base64');
+            if (saved && saved !== createEmptyBitmap(totalTalks)) {
+                // Auto-navigate to URL with selections to force reload with fresh data
+                const url = new URL(window.location);
+                url.searchParams.set('selections', saved);
+                window.location.replace(url.href);
+                return; // Don't continue execution as page will reload
+            } else {
+                checkedBitmap = createEmptyBitmap(totalTalks);
+            }
+        }
+
+        // Save checked talks to localStorage and update URL
+        function saveCheckedTalks() {
+            localStorage.setItem('aapps-dpp-checked-base64', checkedBitmap);
+            
+            // Also update the URL to keep it in sync
+            const url = new URL(window.location);
+            if (checkedBitmap !== createEmptyBitmap(totalTalks)) {
+                url.searchParams.set('selections', checkedBitmap);
+            } else {
+                url.searchParams.delete('selections');
+            }
+            window.history.replaceState({}, '', url);
+        }
+
+        // Check if a talk is selected
+        function isTalkChecked(talkId) {
+            const index = talkIndex[talkId];
+            return index !== undefined && getBitFromBase64(checkedBitmap, index);
+        }
+
+        // Set talk checked status
+        function setTalkChecked(talkId, checked) {
+            const index = talkIndex[talkId];
+            if (index !== undefined) {
+                checkedBitmap = setBitInBase64(checkedBitmap, index, checked);
+                saveCheckedTalks();
+            }
+        }
+
+        // Parse CSV content
+        function parseCSV(content) {
+            const lines = content.replace(/\r/g, '').trim().split('\n');
+            if (lines.length === 0) return [];
+
+            // Parse header with the same robust logic as rows
+            let headers = parseCSVLine(lines[0]).map(h => h.trim());
+
+            // Normalize headers to the expected order/schema
+            const EXPECTED = ['Session', 'Time', 'Duration', 'Room', 'Speaker', 'Affiliation', 'Title'];
+
+            // If the file is an older 6-col version (missing Duration), inject it after Time
+            if (headers.length === 6 && !headers.includes('Duration')) {
+                const timeIdx = headers.indexOf('Time');
+                headers = [
+                    ...headers.slice(0, timeIdx + 1),
+                    'Duration',
+                    ...headers.slice(timeIdx + 1)
+                ];
+            }
+
+            // Map from current header positions to EXPECTED positions
+            const indexFor = (h) => headers.indexOf(h);
+            const idxMap = EXPECTED.map(h => indexFor(h));
+
+            const data = [];
+            for (let i = 1; i < lines.length; i++) {
+                const values = parseCSVLine(lines[i]).map(v => v.trim());
+
+                // Pad values so we can safely read missing columns
+                while (values.length < headers.length) values.push('');
+
+                const row = {};
+                for (let j = 0; j < EXPECTED.length; j++) {
+                    const idx = idxMap[j];
+                    row[EXPECTED[j]] = idx >= 0 ? values[idx] : '';
+                }
+                data.push(row);
+            }
+            return data;
+        }
+
+        // Parse a single CSV line handling quotes
+        function parseCSVLine(line) {
+            const result = [];
+            let current = '';
+            let inQuotes = false;
+            
+            for (let i = 0; i < line.length; i++) {
+                const char = line[i];
+                
+                if (char === '"') {
+                    inQuotes = !inQuotes;
+                } else if (char === ',' && !inQuotes) {
+                    result.push(current);
+                    current = '';
+                } else {
+                    current += char;
+                }
+            }
+            result.push(current);
+            return result;
+        }
+
+        // Get current JST time
+        function getCurrentJSTTime() {
+            return new Date().toLocaleString("en-US", {timeZone: "Asia/Tokyo"});
+        }
+
+        // Check if a talk has started (for graying out)
+        function isTalkStarted(dateStr, timeStr) {
+            try {
+                const [hours, minutes] = timeStr.split(':').map(Number);
+                const talkDate = new Date(dateStr + 'T' + timeStr + ':00+09:00'); // JST
+                const now = new Date();
+                return now > talkDate;
+            } catch (e) {
+                return false;
+            }
+        }
+
+        // Check if a talk is old enough to hide (30+ minutes past start)
+        function isTalkPast(dateStr, timeStr) {
+            try {
+                const [hours, minutes] = timeStr.split(':').map(Number);
+                const talkDate = new Date(dateStr + 'T' + timeStr + ':00+09:00'); // JST
+                const now = new Date();
+                const thirtyMinutesAgo = new Date(now.getTime() - 30 * 60 * 1000); // 30 minutes ago
+                return thirtyMinutesAgo > talkDate;
+            } catch (e) {
+                return false;
+            }
+        }
+
+        // Generate a unique ID for a talk
+        function getTalkId(talk, dayDate) {
+            return `${dayDate}-${talk.Time}-${talk.Speaker}-${talk.Title}`.replace(/[^a-zA-Z0-9]/g, '-');
+        }
+
+        // Load all CSV files
+        async function loadScheduleData() {
+            const days = [
+                '2025-09-21', '2025-09-22', '2025-09-23', 
+                '2025-09-24', '2025-09-25', '2025-09-26'
+            ];
+
+            for (const day of days) {
+                try {
+                    const response = await fetch(`csv/Agenda_${day}.csv`, { cache: 'no-store' });
+                    const content = await response.text();
+                    const data = parseCSV(content);
+                    scheduleData[day] = data;
+                } catch (e) {
+                    console.warn(`Failed to load ${day}:`, e);
+                }
+            }
+
+            if (Object.keys(scheduleData).length === 0) {
+                document.getElementById('content').innerHTML = 
+                    '<div class="error">No schedule data found. Make sure CSV files are available in the csv/ folder.</div>';
+                return;
+            }
+
+            createTalkIndexes();
+            loadCheckedTalks();
+            renderDayTabs();
+            
+            // Initialize button states
+            const hidePastBtn = document.getElementById('hidePastBtn');
+            hidePastBtn.classList.toggle('active', hidePastTalks);
+            hidePastBtn.textContent = hidePastTalks ? 'Show past talks' : 'Hide past talks';
+            
+            // Load last selected day or default to first day
+            const savedDay = localStorage.getItem('aapps-dpp-current-day');
+            const availableDays = Object.keys(scheduleData);
+            const dayToShow = (savedDay && availableDays.includes(savedDay)) ? savedDay : availableDays[0];
+            showDay(dayToShow);
+            updateCurrentTime();
+            updatePageTitle();
+            setInterval(updateCurrentTime, 60000); // Update every minute
+        }
+
+        // Render day navigation tabs
+        function renderDayTabs() {
+            const tabsContainer = document.getElementById('dayTabs');
+            tabsContainer.innerHTML = '';
+
+            Object.keys(scheduleData).forEach(day => {
+                const button = document.createElement('button');
+                button.className = 'day-tab';
+                button.textContent = formatDayLabel(day);
+                button.onclick = () => showDay(day);
+                tabsContainer.appendChild(button);
+            });
+        }
+
+        // Format day label for display
+        function formatDayLabel(dateStr) {
+            const date = new Date(dateStr + 'T00:00:00');
+            return date.toLocaleDateString('en-US', { 
+                month: 'short', 
+                day: 'numeric',
+                weekday: 'short'
+            });
+        }
+
+        // Show a specific day
+        function showDay(day) {
+            currentDay = day;
+            
+            // Save current day to localStorage
+            localStorage.setItem('aapps-dpp-current-day', day);
+            
+            // Update tab states
+            document.querySelectorAll('.day-tab').forEach((tab, index) => {
+                tab.classList.toggle('active', Object.keys(scheduleData)[index] === day);
+            });
+
+            renderDayContent(day);
+        }
+
+        // Render content for a specific day
+        function renderDayContent(day) {
+            const content = document.getElementById('content');
+            const talks = scheduleData[day];
+
+            let html = `<div class="day-content active">
+                <div class="talk-grid">`;
+
+            talks.forEach(talk => {
+                const talkId = getTalkId(talk, day);
+                const isChecked = isTalkChecked(talkId);
+                const isStarted = isTalkStarted(day, talk.Time);
+                const isPast = isTalkPast(day, talk.Time);
+                const isHidden = (showOnlyChecked && !isChecked) || (hidePastTalks && isPast);
+
+                // Debug: log the first few talks to see the data structure
+                if (talks.indexOf(talk) < 3) {
+                }
+
+                html += `
+                    <div class="talk-card ${isStarted ? 'past' : ''} ${isChecked ? 'checked' : ''} ${isHidden ? 'hidden' : ''}" 
+                         data-talk-id="${talkId}">
+                        <div class="talk-header">
+                            <input type="checkbox" class="talk-checkbox" 
+                                   ${isChecked ? 'checked' : ''} 
+                                   onchange="toggleTalkCheck('${talkId}')">
+                            <div class="talk-meta">
+                                <span class="talk-time">
+                                    ${talk.Time}
+                                    ${talk.Duration ? `<span class="talk-duration">${talk.Duration} min</span>` : ''}
+                                </span>
+                                <span class="talk-room">${talk.Room}</span>
+                                <div class="talk-title">${talk.Title}</div>
+                                <span class="talk-session">${talk.Session}</span>
+                            </div>
+                        </div>
+                        <div class="talk-speaker-info">
+                            ${talk.Speaker} <span class="talk-affiliation">(${talk.Affiliation})</span>
+                        </div>
+                    </div>`;
+            });
+
+            html += `</div></div>`;
+            content.innerHTML = html;
+            
+            // Make sure initial hidePastTalks is respected
+            updateCurrentTime();
+        }
+
+        // Toggle talk check status
+        function toggleTalkCheck(talkId) {
+            const wasChecked = isTalkChecked(talkId);
+            setTalkChecked(talkId, !wasChecked);
+            
+            // Update the card appearance
+            const card = document.querySelector(`[data-talk-id="${talkId}"]`);
+            if (card) {
+                const checkbox = card.querySelector('.talk-checkbox');
+                checkbox.checked = !wasChecked;
+                card.classList.toggle('checked', !wasChecked);
+                
+                // Update visibility based on current filters
+                updateCardVisibility(card, talkId);
+            }
+            
+            updatePageTitle();
+        }
+
+        // Update card visibility based on current filter states
+        function updateCardVisibility(card, talkId) {
+            const isChecked = isTalkChecked(talkId);
+            const talk = scheduleData[currentDay].find(t => getTalkId(t, currentDay) === talkId);
+            const isPast = talk ? isTalkPast(currentDay, talk.Time) : false;
+
+            const shouldHide = (showOnlyChecked && !isChecked) || (hidePastTalks && isPast);
+            card.classList.toggle('hidden', shouldHide);
+        }
+
+        // Share selections via URL
+        function shareSelections() {
+            const url = new URL(window.location);
+            url.searchParams.set('selections', checkedBitmap);
+            
+            // Copy to clipboard
+            navigator.clipboard.writeText(url.toString()).then(() => {
+                const btn = document.getElementById('shareBtn');
+                const originalText = btn.textContent;
+                btn.textContent = 'Copied!';
+                btn.style.background = '#28a745';
+                btn.style.color = 'white';
+                
+                setTimeout(() => {
+                    btn.textContent = originalText;
+                    btn.style.background = '';
+                    btn.style.color = '';
+                }, 2000);
+            }).catch(() => {
+                // Fallback: show URL in prompt
+                prompt('Copy this URL to share your selections:', url.toString());
+            });
+        }
+
+        // Get selection statistics
+        function getSelectionStats() {
+            let checkedCount = 0;
+            for (let i = 0; i < totalTalks; i++) {
+                if (getBitFromBase64(checkedBitmap, i)) {
+                    checkedCount++;
+                }
+            }
+            return { checked: checkedCount, total: totalTalks };
+        }
+
+        // Toggle hide past talks
+        function toggleHidePast() {
+            hidePastTalks = !hidePastTalks;
+            const hidePastBtn = document.getElementById('hidePastBtn');
+            
+            hidePastBtn.classList.toggle('active', hidePastTalks);
+            hidePastBtn.textContent = hidePastTalks ? 'Show past talks' : 'Hide past talks';
+            
+            // Update all visible cards
+            document.querySelectorAll('.talk-card').forEach(card => {
+                const talkId = card.getAttribute('data-talk-id');
+                updateCardVisibility(card, talkId);
+            });
+        }
+
+        // Toggle filter mode
+        function toggleFilter() {
+            showOnlyChecked = !showOnlyChecked;
+            const filterBtn = document.getElementById('filterBtn');
+            
+            filterBtn.classList.toggle('active', showOnlyChecked);
+            filterBtn.textContent = showOnlyChecked ? 'Show all talks' : 'Show only checked talks';
+            
+            // Update all visible cards
+            document.querySelectorAll('.talk-card').forEach(card => {
+                const talkId = card.getAttribute('data-talk-id');
+                updateCardVisibility(card, talkId);
+            });
+        }
+
+        // Update current time display
+        function updateCurrentTime() {
+            const timeElement = document.getElementById('currentTime');
+            const now = new Date();
+            const jstTime = now.toLocaleString('en-US', {
+                timeZone: 'Asia/Tokyo',
+                hour: '2-digit',
+                minute: '2-digit',
+                hour12: false
+            });
+            const jstDate = now.toLocaleDateString('en-US', {
+                timeZone: 'Asia/Tokyo',
+                month: 'short',
+                day: 'numeric'
+            });
+            timeElement.textContent = `JST: ${jstDate} ${jstTime}`;
+            
+            // Update past/future status of talks
+            if (currentDay) {
+                document.querySelectorAll('.talk-card').forEach(card => {
+                    const timeElement = card.querySelector('.talk-time');
+                    if (timeElement) {
+                        const isStarted = isTalkStarted(currentDay, timeElement.textContent);
+                        card.classList.toggle('past', isStarted);
+                        
+                        // Update visibility if hide past talks is enabled
+                        const talkId = card.getAttribute('data-talk-id');
+                        updateCardVisibility(card, talkId);
+                    }
+                });
+            }
+        }
+
+        // Update page title with selection count
+        function updatePageTitle() {
+            const stats = getSelectionStats();
+            if (stats.total > 0) {
+                document.title = `AAPPS-DPP 2025 (${stats.checked}/${stats.total} selected)`;
+            }
+        }
+
+        // Initialize the application
+        document.addEventListener('DOMContentLoaded', () => {
+            loadScheduleData();
+        });
+    </script>
+</body>
+</html>

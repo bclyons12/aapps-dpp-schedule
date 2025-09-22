@@ -1,0 +1,75 @@
+Session,Time,Duration,Room,Speaker,Affiliation,Title
+Plenary8,08:30,30,203+204,Wei Chen,SWIP,Density Limit Disruption Induced by Core-localized Alfvenic Ion Temperature Gradient Instabilities on HL-2A
+Plenary8,09:00,30,203+204,Kamatchi Sankaranarayanan,DST-Institute of Advanced Study in Science and Technology Gu,Synergistic Integration of Biophysics and Plasma Physics: Advancing Biomolecular Applications with Cold Plasma Technology
+Plenary8,09:30,30,203+204,Julian Mak,Hong Kong University of Science and Technology,Relaxation and equilibration of baroclinic flows
+Plenary8,10:00,30,203+204,Lorin Matthews,Baylor University,Charging and Transport of Dust in Plasma: beyond the basics
+Plenary9,11:00,30,203+204,Erik Wagenaars,"York Plasma Institute, University of York",Towards control of plasma chemistry in low-temperature plasmas
+Plenary9,11:30,30,203+204,Xinlin Li,University of Colorado Boulder,The Continuing Journey of REPTiles (Relativistic Electron and Proton Telescope Integrated Little Experiments): Achievements and Future Impact
+Plenary9,12:00,30,203+204,Gian Mario Polli,"DTT s.c.ar.l. and ENEA, Nuclear Department",DTT: a facility to investigate heat exhaust solutions for fusion power plants
+Plenary9,12:30,30,203+204,Natsumi Iwata,"Institute of Laser Engineering, The University of Osaka",Mesoscale laser plasma physics explored by kJ petawatt lasers
+A1-11: Plasma application/interaction,14:00,20,402+403,Koichi Sasaki,Hokkaido University,Mechanism of droplet ejection from liquid metals interacting with hydrogen plasmas
+A2-10: Chemistry in Plasma Life Science,14:00,20,405+406,Kathrina Lois Taaca,University of the Philippines Diliman,Impact of Sterilization and Bioactivity of Plasma-activated Hybrid Hydrogels
+B1-12: Data Science,14:00,20,413,Adam Kit,"VTT, Technical Research Centre of Finland",On Physics-Data Generative Modeling for Core-Edge Integration in Tokamaks
+B2-9: Plasma fundamental III,14:00,20,504+505,Liang Xu,Soochow University,Mathematical and computational modeling of the gas breakdown in the planar magnetron discharge
+CD-9: EP+AE+Turbulence,14:00,40,401,Alessandro Di Siena,"Max Planck Institute for Plasma Physics, Garching",The Role of Alpha Particles in Turbulence Suppression and Confinement Enhancement in ITER and SPARC
+F-11: Numerical simulations and modeling II,14:00,20,414,Zhenyu Wang,"Institute of Plasma Physics, Chinese Academy of Sciences",Full-f 6D particle-in-cell simulations of quasi-kinetic equilibrium and drift-wave instability under spatial inhomogeneity
+HEDP-2: Physics of matter and hydro processes in high energy density plasmas,14:00,30,404,Snezhana I Abarzhi,California Institute of Technology and The University of Wes,Special self-similarity class of hydro mixing in high energy density plasmas: perspectives in supernovae and the inertial confinement fusion
+L1-9: IFE/LPI,14:00,20,411,Siegfried Glenzer (Presented By W.M. Martin),SLAC National Accelerator Laboratory,The Dawn of Inertial Fusion Energy Research
+L2-9: Application,14:00,20,412,Minsup Hur,UNIST,Plasma Photonics for Generation of Exawatt to Zettawatt Laser Pulses
+MF1-9: Multi-scale Physics,14:00,20,409,Pan Li,"Institute of Plasma Physics, Hefei Institutes of Physical Sc","Dynamics between energetic particles driven instabilities, lower frequency flow and turbulence on EAST"
+MF2-9: Diagnostics on edge regions,14:00,20,410,Yoshihiko Nagashima,"RIAM, Kyushu University",Development of a Limiter-like Langmuir Probe System for the QUEST All-Metal Device
+SA-9: Dust,14:00,20,502,Yusuke Tsukamoto,Kagoshima University,Co-evolution of dust grains and protoplanetary disks
+SG-9: Space Weather,14:00,20,503,Vipin Kumar Yadav,SPL / VSSC / ISRO,Observations of Extreme Solar Transient Events by MAG Payload onboard Aditya-L1 Spacecraft around L1 Point
+A1-11: Plasma application/interaction,14:20,20,402+403,Hitoshi Muneoka,Tohoku University,Gas-Liquid Transition and Influence of Density Fluctuations in Supercritical Fluid Plasmas
+A2-10: Chemistry in Plasma Life Science,14:20,20,405+406,Pankaj Attri,Kyushu University,Computational Investigation of Plasma-Induced Oxidative Modifications on Heat Shock Protein Structure
+B1-12: Data Science,14:20,20,413,Satoru Tokuda,Kyushu University,Application and progress of Bayesian statistics in plasma physics
+B2-9: Plasma fundamental III,14:20,20,504+505,Yuto Toda,"Graduate Institute for Advanced Studies, SOKENDAI",Comparison of hydrogen atom and hydrogen ion injection onto a tungsten surface using time-dependent density functional theory
+F-11: Numerical simulations and modeling II,14:20,20,414,Matthew Thomas,Australian National University,Shear Alfvén Waves in Chaotic Magnetic Fields.
+L1-9: IFE/LPI,14:20,20,411,G. Elijah Kemp,Lawrence Livermore National Laboratory,First demonstration of a layered direct-drive inertial confinement fusion target on the National Ignition Facility
+L2-9: Application,14:20,20,412,Jaehoon Kim,Korea Electrotechnology Research Institute,Current Research Status of Laser Wakefield Accelerator for Cancer Treatment
+MF1-9: Multi-scale Physics,14:20,20,409,Xiaoxi Zhang,"School of Science, China University of Geosciences (Beijing",Effects of Trapped Energetic ions on the 2/1 Tearing Mode and Fishbone-like Mode
+MF2-9: Diagnostics on edge regions,14:20,20,410,Seungmin Bong,KAIST,Newly designed Langmuir probe system at the tungsten lower divertors in KSTAR
+SA-9: Dust,14:20,20,502,Shogo Isayama,Kyushu University,Relativistic resonant and trailing-field acceleration induced by large amplitude Alfvén waves in a strong magnetic field
+SG-9: Space Weather,14:20,20,503,Yixin Sun,Peking University,Violation of the Impenetrable Barrier: MSS-1 and Arase Observations of MeV Electrons in the Inner Radiation Belt During the May 2024 Geomagnetic Storm
+HEDP-2: Physics of matter and hydro processes in high energy density plasmas,14:30,30,404,Hiroshi Azechi,Osaka University,"On kinematic viscosity, scaling laws and spectral shapes in Rayleigh-Taylor mixing plasma experiments"
+A1-11: Plasma application/interaction,14:40,20,402+403,Takayuki Ohta,Meijo university,Low temperature deposition of metal oxide semiconductor material by high-power impulse magnetron sputtering
+A2-10: Chemistry in Plasma Life Science,14:40,20,405+406,Akiyo Tanaka,Kyushu University,Assessment of the health effects of indium compounds in experimental animals
+B1-12: Data Science,14:40,15,413,Yu Zhong,Huazhong University of Science and Technology,Disruption Prediction for Different Operational Phase Based on Disruption Budget
+B2-9: Plasma fundamental III,14:40,20,504+505,Jingfeng Yao,Harbin Institute of Technology,Investigation of discharge characteristics of high-energy microwave plasma switches with different electrode spacings
+CD-9: EP+AE+Turbulence,14:40,20,401,Kyle Callahan,Oak Ridge Institute for Science and Education,Investigation of Alfvén wave and Ion Temperature Gradient turbulence interaction under modified fast ion scattering conditions in DIII-D
+F-11: Numerical simulations and modeling II,14:40,20,414,Hengqian Liu,University of Science and Technology of China,Optimizing omnigenity like quasisymmetry for stellarators
+L1-9: IFE/LPI,14:40,20,411,Chao Tian,"Laser Fusion Research Center, China Academy of Engineering P",Interface slit-induced implosion asymmetry in double-shell targets: Time-resolved high-energy X-ray radiography with 10-µm spatial resolution
+L2-9: Application,14:40,15,412,Baris Emre Bingol,University of Strathclyde,LWFA-Driven Photonuclear and Photo-Spallation Reactions for Production of Medical Radionuclides
+MF1-9: Multi-scale Physics,14:40,15,409,Kunihiro Ogawa,National Institute for Fusion Science,Experimental study of MHD instability effect on MeV ion confinement in KSTAR
+MF2-9: Diagnostics on edge regions,14:40,15,410,Chen Zhang,Dalian University of Technology,Simulation and experimental study of separatrix reconstruction by visible light in EAST
+SA-9: Dust,14:40,20,502,Hassan Shah,"Forman Christian College, Lahore","Chaotic Evolution of Shock Waves, Solitons, and Solitary Shocks in a Degenerate Quantum Plasma"
+SG-9: Space Weather,14:40,20,503,Kirolosse Girgis,International Research Center for Space and Planetary Enviro,Numerical Modeling of Particle Dynamics during Dipolarization Events in Substorm Time
+B1-12: Data Science,14:55,15,413,Chengshuo Shen,Huazhong University of Science and Technology,Transferable and interpretable disruption prediction based on physics-guided machine learning
+MF1-9: Multi-scale Physics,14:55,15,409,Tomoya Kawazu,"Department of Fundamental Energy, Graduate School of Energy ",Effects of magnetic field geometry and beta dependence on trapped electron mode turbulent transport in tokamak plasmas.
+MF2-9: Diagnostics on edge regions,14:55,15,410,Zhan-Hong Lin,"Dalian University of Technology, China & Institute of Plasma",Synthetic diagnostic of INPA passive signal in EAST
+A1-11: Plasma application/interaction,15:00,20,402+403,Toru Sasaki,Nagaoka University of Technology,Curing Process of Electrically Conductive Adhesives and Formation of Resistant Coatings using Atmospheric Pressure Plasma
+A2-10: Chemistry in Plasma Life Science,15:00,20,405+406,Vikas Rathore,Walailak University,Green Fertilizers (urea and ammonium nitrate) Synthesis via Plasma-Liquid Interaction
+B2-9: Plasma fundamental III,15:00,15,504+505,Zhenhua Zhou,"Department of engineering physics, Tsinghua university",Similarity properties in CF4 capacitive radio-frequency plasmas
+CD-9: EP+AE+Turbulence,15:00,20,401,Younghoon Lee,Korea Institute of Fusion Energy,Impact of finite-orbit-width (FOW) effects on EGAM
+F-11: Numerical simulations and modeling II,15:00,15,414,Kooper De Lacy,The University of Western Australia,Convergence Rate of Multi-region Relaxed MHD Equilibria to Ideal MHD Equilibria
+HEDP-2: Physics of matter and hydro processes in high energy density plasmas,15:00,30,404,Snezhana Abarzhi,California Institute of Technology and The University of Wes,Instabilities in fusion plasmas: Interface dynamics and flow fields structure
+L1-9: IFE/LPI,15:00,15,411,Wei Liu,"Laser Fusion Research Center, China Academy of Engineering P",Diagnostics of the electron temperature distribution of hot spot using a four-color quasi-monochromatic X-ray Kirkpatrick-Baez microscope
+SA-9: Dust,15:00,20,502,Shoma Kamijima,"Yukawa Institute for Theoretical Physics, Kyoto University",Cosmic ray acceleration and maximum energy in core-collapse supernova remnants
+SG-9: Space Weather,15:00,20,503,Xuzhi Zhou,Peking University,Transient Distortions of the South Atlantic Anomaly Radiation Environments Driven by Large-Scale Electric Fields
+B1-12: Data Science,15:10,15,413,Sukma Wahyu Fitriani,Kyushu University,Predicting Plasma-Deposited Thin Film Properties Using Machine Learning based on Optical Emission Spectroscopy
+MF1-9: Multi-scale Physics,15:10,15,409,Masato Matsuoka,Nagoya University,Experimental observation of local reduction of gradient in energy spectrum of energetic particles interacting with MHD bursts
+MF2-9: Diagnostics on edge regions,15:10,15,410,Johan Buermans,LPP-ERM/KMS,Cross-diagnostic calibration of the density measurements in TOMAS
+F-11: Numerical simulations and modeling II,15:15,15,414,Masaru Furukawa,Tottori University,Helically symmetric equilibria of incompressible MHD in cylindrical geometry
+A1-11: Plasma application/interaction,15:20,20,402+403,Atsushi Ito,"National Institute for Fusion Science, National Institutes o",Ehrenfest Molecular Dynamics for Quantum Process under Ion Injection onto Solid Surfaces and Seed Coats
+SA-9: Dust,15:20,15,502,Masahiro Hoshino,The University of Tokyo,Electron-ion temperature ratio in mildly relativistic parallel shocks
+SG-9: Space Weather,15:20,20,503,Yusuke Ebihara,Kyoto University,"Generation, propagation and consequence of field-aligned currents during substorm expansion"
+MF1-9: Multi-scale Physics,15:25,15,409,Helen Kaang,Korea Institute of Fusion Energy (KFE,The effects of magnetic shear and plasma temperature gradients on intrinsic rotation generation via parity changes in global electromagnetic ITG modes
+HEDP-2: Physics of matter and hydro processes in high energy density plasmas,15:30,30,404,Bruno Coppi,Massachusetts Institute of Technology,In Situ Magnetic Field Generation and Plasma Structures as Constituents of Astrophysical Jets*
+SA-9: Dust,15:35,15,502,Kanji Morikawa,The University of Tokyo,Magnetic turbulence by the interaction between a special relativistic shock and an inhomogeneous medium
+SG-9: Space Weather,15:40,20,503,Shuo Yao,China University of Geosciences,Features and Source Current of the Ground Induced Geoelectric Field During Magnetic Storms
+SA-9: Dust,15:50,15,502,Subham Ghosh,Asia Pacific Center for Theoretical Physics,Magnetic Reconnection: An Alternative Explanation of Radio Emission in Galaxy Clusters
+SG-9: Space Weather,16:00,15,503,Victor Munoz,"Departamento de Fisica, Facultad de Ciencias, Universidad de",Community Structure Of Earth’s Magnetic Field Measurements
+Plenary10,16:30,30,203+204,Felix Parra,Princeton Plasma Physics Laboratory,Finite gyro-radius and mean-free-path layers on tokamak walls
+Plenary10,17:00,30,203+204,Min Chen,Shanghai Jiao Tong university,Laser wakefield based axion-like particle generation and detection
+Plenary10,17:30,30,203+204,Linghua Wang&Peter Yoon,Peking University&University of Malyland,DPP and Elsevier poster Prizes
+Plenary10,18:00,30,203+204,Wonho Choe,KAIST,Closing

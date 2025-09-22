@@ -1,0 +1,175 @@
+Session,Time,Duration,Room,Speaker,Affiliation,Title
+Opening,08:30,10,203+204,Masaharu Shiratani,Kyushu University,Opening remark
+Opening,08:40,5,203+204,Rajdeep Singh Rawat,Nanyang Technological University,DPP Chair's address
+Opening,08:45,5,203+204,Mitsuru Kikuchi,AAPPS-DPP,DPP CEO remark
+Opening,08:50,15,203+204,Sudeep Bhattacharjee,Indian Institute of Technology Kanpur,U30 award ceremony
+Opening,09:05,15,203+204,Hyyong Suk,GIST,U40 award ceremony
+Opening,09:20,15,203+204,Se Youn Moon,Jeonbuk National University,PIP prize ceremony
+Opening,09:35,15,203+204,Lou Chuang Lee,Academia Sinica,Chandrasekhar prize ceremony
+Opening,09:50,5,203+204,Yasuaki Kishimoto,Kyoto University,Kunioki Mima memorial
+Opening,09:55,5,203+204,Liu Chen,Zhejiang University,Akira Hasegawa memorial
+Opening,10:00,10,203+204,Siwoo Yoon,KFE,Invitation to AAPPS-DPP2026 (Busan)
+Opening,10:10,5,203+204,Wonho Choe,IUPAP C16 Member,IUPAP early career award ceremony
+Plenary1,11:00,30,203+204,Qiu-Gang Zong,Peking University/ Macao University of Science and Technolog,Cross Scale Wave-Particle Interaction in Geospace
+Plenary1,11:30,30,203+204,Keishi Sakamoto,"Kyoto Fusioneering,Ltd.",Progress of High Power Gyration for Fusion Devices
+Plenary1,12:00,30,203+204,Felix Warmer,Max Planck Institute for Plasmaphysics,Latest performance achievements of the Wendelstein 7-X Stellarator
+Plenary1,12:30,30,203+204,Linghua Wang,Peking University,Interplanetary Energetic Electrons
+WIPP-1: WIPP WS,13:05,20,203+204,Ya Zhang,Wuhan University,"Challenges, Triumphs, and the Future of Women in Plasma Physics"
+WIPP-1: WIPP WS,13:25,20,203+204,Farah Atour,Max Planck institute for Plasma Physics,From Engineering to Physics: A Personal Perspective on Interdisciplinary Research
+WIPP-1: WIPP WS,13:45,20,203+204,Giuseppina Nigro,the University of Rome Tor Vergata,A Winner Is a Dreamer Who Never Gives Up: Reflections on My Journey through Plasma Physics and Astrophysics
+A1-2: atmopsheric pressure plasma technology,14:00,20,402+403,Muhammad Shahid Rafique,University of Engineering and Technology,Material Fabrication/Modification using Atmospheric Pressure Plasma
+A2-3: Plasma Agriculture,14:00,20,405+406,Hiroshi Ehara,Nagoya University,Phenotypic changes induced by the application of low-temperature plasma treatments in various crop species
+B1-1: Diagnostics,14:00,20,413,Naoki Tamura,Max-Planck Institute for Plasma Physics,Plasma Diagnostics and Control with Tracer Encapsulated Solid Pellet (TESPEL) in Magnetically Confined High-Temperature Plasmas
+B1-2: Simulation,14:00,20,404,Masahiko Sato,National Institute for Fusion Science,Recent progress and future prospects of kinetic-magnetohydrodynamic hybrid simulations using the MEGA code
+B2-1: Dusty plasma I,14:00,20,504+505,Wei-Shuo Lo,National Central University,Coherent excitations in thermally excited dusty plasma crystals: observations of multi-scale vortical phonons and vortical phonon vortices
+CD-1: ELMs,14:00,40,401,Sang-Jin Park,Seoul National University,Simulations for understanding Alfven Eigenmode Mitigation physics in KSTAR Experiment
+F-3: Alfvén waves and turbulence,14:00,20,414,Walter Gekelman,"University of California, Los Angeles",Experiments on Shear Alfvén waves with large transverse wavenumbers
+L1-1: LabA/HighF/Z-pinch,14:00,20,411,Huibo Tang,Harbin Institute of Technology,Laboratory observation of ion drift acceleration of laser-produced magnetized collisionless shocks
+L2-1: Wakefield acceleration I,14:00,20,412,John Farmer,Max-Planck-Institute for Physics,AWAKE: harnessing plasma instabilities for high-gradient acceleration
+MF1-1: Stellarator Physics,14:00,20,409,Heng Lan,Southwest Jiaotong University,Experimental study of the electromagnetic fluctuations and energy confinement in the quasi-axisymmetric stellarator CFQS-T plasmas
+MF2-1: Overview and highlights on edge plasmas from various devices,14:00,20,410,Jonathan Gaspar,IUSTI Laboratory,"Overview of long pulse, high fluence and high heat flux operation in WEST full tungsten environment"
+SA-1: Solar methodology,14:00,20,502,Qi Hao,Nanjing University,"Developing Automated Detection, Tracking and Analysis Methods for Solar Activities via Machine Learning"
+SG-1: Reconnection,14:00,20,503,Shan Wang,Peking University,New insights on the high reconnection rate and diminishment of ion outflow in reconnection
+A1-2: atmopsheric pressure plasma technology,14:20,20,402+403,Kosuke Takenaka,The University of Osaka,Enhancement of bonding strength of metals /organic materials direct bonding via non-equilibrium atmospheric pressure plasma irradiation
+A2-3: Plasma Agriculture,14:20,20,405+406,Yoshihisa Ikeda,Ehime-University,Microplasma Stimuli for Efficient Molecular Introduction and Physiological Activation in Plants
+B1-1: Diagnostics,14:20,20,413,Jia Han,University of California Los Angeles,X Ray Diagnostics for high energy electrons using Tungsten Pellets
+B1-2: Simulation,14:20,20,404,Shiyang Liu,Zhejiang University,Development of the Gyrokinetic-MHD Hybrid Code cuGMEC and Its Nonlinear Simulations of Alpha Particle-driven Alfvén Eigenmodes in ITER
+B2-1: Dusty plasma I,14:20,20,504+505,Chen-Kang Huang,National Central University,Formation and microfilamentation of spiral density waves in plasmas induced by circularly polarized field ionization
+F-3: Alfvén waves and turbulence,14:20,20,414,Jian Zhang,Tongji University,The wave characteristics of kinetic-scale slow solar wind and their impact on the turbulence spectra: PSP observations
+L1-1: LabA/HighF/Z-pinch,14:20,20,411,Jin Matsumoto,Fukuoka University,Magnetic field amplification in chiral magnetohydrodynamic simulation
+L2-1: Wakefield acceleration I,14:20,20,412,Hyyong Suk,GIST,Recent progress in the laser pulse compression experiment using a plasma with a density gradient
+MF1-1: Stellarator Physics,14:20,20,409,Jian Zhang,Huazhong University of Science and Technology,Numerical solutions of resistive finite-pressure magnetohydrodynamic equilibria for quasiaxisymmetric stellarator CFQS and non-axisymmetric toroidal plasmas
+MF2-1: Overview and highlights on edge plasmas from various devices,14:20,20,410,Jack Lovell,Oak Ridge National Laboratory,Highlights from the third experiment campaign of MAST Upgrade
+SA-1: Solar methodology,14:20,20,502,Lei Lu,"Purple Mountain Observatory, Chinese Academy of Sciencies",Application of Radio Observations in the Study of Solar Eruptions
+SG-1: Reconnection,14:20,20,503,Kai Huang,Harbin Institute of Technology,Secondary reconnection between interlinked flux tubes driven by magnetic reconnection with a short x-line
+A1-2: atmopsheric pressure plasma technology,14:40,20,402+403,Naoki Shirai,Hokkaido University,Self-organized luminescent patterns observed in direct current glow discharge from low pressure to atmospheric pressure
+A2-3: Plasma Agriculture,14:40,20,405+406,Kazuya Ishikawa,Ritsumeikan University,Elucidation of adaptation mechanism of rice to environmental stress through cold plasma treatment
+B1-1: Diagnostics,14:40,15,413,Jiankun Hua,International Joint Research Laboratory of Magnetic Confinem,The distribution of the parallel electron-current at the boundary of plasma on J-TEXT
+B1-2: Simulation,14:40,20,404,Wei Zhang,"Institute for Fusion Theory and Simulation, School of Physic",Strong toroidal electric field generation during sawtooth crashes
+B2-1: Dusty plasma I,14:40,20,504+505,Surabhi Jaiswal,Indian Institute of Science Education and Research Pune,Studying complex plasma crystal and its dynamical behavior in different plasma systems
+CD-1: ELMs,14:40,20,401,Chuanxu Zhao,International Joint Research Laboratory of Magnetic Confinem,Investigation of the evolution and interaction of e-ITB and core MHD in J-TEXT
+F-3: Alfvén waves and turbulence,14:40,20,414,Jiansen He,Peking University,Kinetic Alfvén Waves in the Primary Solar Wind: Shaping Our Understanding in the PSP and Solar Orbiter Era
+L1-1: LabA/HighF/Z-pinch,14:40,20,411,Mickael Grech,"LULI, CNRS, Ecole Polytechnique",Electron-Positron-Photon Cascades in Strong Electromagnetic Fields and Matter: A Path Toward Laboratory Pair Plasma Production
+L2-1: Wakefield acceleration I,14:40,20,412,Feng Zhang,"National Key Laboratory of Plasma Physics, Laser Fusion Rese",Muon Production and Acceleration with Ultrashort High Intensity laser
+MF1-1: Stellarator Physics,14:40,20,409,Xianyi Nie,University of Science and Technology of China,FOCUS-HTS: A New Stellarator Coil Design Code for Three-dimensional High-Temperature Superconducting Magnets
+MF2-1: Overview and highlights on edge plasmas from various devices,14:40,20,410,Dorothea Gradic,Max-Planck-Institut für Plasmaphysik,Development of long-pulse detached plasmas in the Wendelstein 7-X stellarator
+SA-1: Solar methodology,14:40,20,502,Ayu Ramada Sukarmadji,Institut de Recherche en Astrophysique et Planétologie,Deciphering the nanojet phenomenon through observations and numerical simulations
+SG-1: Reconnection,14:40,20,503,Xianglei He,Harbin Institute of Technology,Numerical analysis of three-dimensional magnetopause-like reconnection properties by iPIC3D simulation for SPERF-AREX
+B1-1: Diagnostics,14:55,15,413,Shengyu Wang,"Dept. Complexity Science and Engineering, Grad. School of Fr",Investigation of Hard X-Ray emission in Lower Hybrid Wave Experiments on the TST-2 Spherical Tokamak
+A1-2: atmopsheric pressure plasma technology,15:00,20,402+403,Hui Jiang,National Key Laboratory of Power Transmission Equipment Tech,Developments and Interactions of the Channels in Surface Dielectric Barrier Discharge
+A2-3: Plasma Agriculture,15:00,15,405+406,Ritesh Mishra,Indian Institute of Technology Jodhpur,Cold Plasma-Assisted Pectin Extraction from Dragon Fruit Peels: A Novel Approach to Enhance Film Mechanical Properties
+B1-2: Simulation,15:00,15,404,Jun Kuang,Anhui University,Development of a static tokamak equilibrium solver and design of cloverleaf configuration
+B2-1: Dusty plasma I,15:00,20,504+505,Dong Huang,Soochow University,Isomorphic lines and isomorphic invariants in dusty plasmas and its applications
+CD-1: ELMs,15:00,20,401,Yi Zhang,Southwestern Institute of Physics,Impact of resonant magnetic perturbation on L-H transition dynamics in HL-2A and HL-3 tokamaks
+F-3: Alfvén waves and turbulence,15:00,20,414,Ling Chen,"Purple Mountain Observatory, Chinese Academy of Sciences",Kinetic Alfven Wave (KAW) in nonuniform magnetic plasma atmospheres and its applications
+L1-1: LabA/HighF/Z-pinch,15:00,20,411,Shinji Koide,Kumamoto University,Instability of current sheet in low-density plasma around the anchor region of relativistic jets of AGNs
+L2-1: Wakefield acceleration I,15:00,20,412,Mathieu Dumergue,Laboratoire pour l'Utilisation des Lasers Intenses,The APOLLON laser facility: Current status and scientific outcomes at multi-PW level
+MF1-1: Stellarator Physics,15:00,20,409,Yangbo Li,"IFPP, Huazhong University of Science and Technology",Experimental results of Tokamak-Stellarator hybrid configuration by external rotational transform on J-TEXT
+MF2-1: Overview and highlights on edge plasmas from various devices,15:00,20,410,Sebastijan Brezinsek,Forschungszentrum Jülich,Plasma-Wall Interactions Studies in support of the new ITER baseline
+SA-1: Solar methodology,15:00,15,502,Mehdi Yousefzadeh,Shandong University,Kinetic Modeling of Coherent Emission in Coronal Loops: An Innovative Three-Step Numerical Approach
+SG-1: Reconnection,15:00,20,503,Kui Jiang,"School of Earth and Space Science and Technology, Wuhan Univ",Interactions between dipolarization front and magnetic reconnection: MMS observations
+B1-1: Diagnostics,15:10,15,413,Seongmin Choi,Korea Advanced Institute of Science and Technology,Development of a Virtual FVC System and Forward Model for Shattered Pellet Injection Tracking in KSTAR
+A2-3: Plasma Agriculture,15:15,15,405+406,Ahmed Khacef,"GREMI, CNRS-Université d'Orléans",Cold Plasma Technology for the Prevention of Postharvest Grain Losses
+B1-2: Simulation,15:15,15,404,Sumin Yi,Korea Institute of Fusion Energy,Turbulence simulation with a bounce-averaged kinetic electron model in general tokamak geometry
+SA-1: Solar methodology,15:15,15,502,Zihao Yang,"High Altitude Observatory, NCAR",Observing the evolution of the Sun’s global coronal magnetic field over 8 months
+A1-2: atmopsheric pressure plasma technology,15:20,20,402+403,Tatsuru Shirafuji,Osaka Metropolitan University,Surface-Launched Plasma Bullet and Its Application
+B2-1: Dusty plasma I,15:20,20,504+505,Shaoyu Lu,Soochow University,Internal friction of grain boundaries in two-dimensional Yukawa solids
+CD-1: ELMs,15:20,20,401,Wei Wang,Southwestern Institute of Physics,Dynamics of transport barriers formation in HL-3 experiment and gyro-kinetic simulations
+F-3: Alfvén waves and turbulence,15:20,15,414,Kexun Shen,"Institute for Fusion Theory and Simulation, School of Physic",Stationary Power-law Solutions of Weak Kinetic-Alfvénic Turbulence
+L1-1: LabA/HighF/Z-pinch,15:20,20,411,Keita Seto,Japan Atomic Energy Agency,Plasma kinetic model of nonlinear scalar QED particles in high-intensity laser pulse
+MF1-1: Stellarator Physics,15:20,20,409,Alejandro Banon Navarro,Max-Planck-Institute for Plasma Physics,Exploring Turbulence in Stellarators: Advances in Global Gyrokinetic Simulations
+MF2-1: Overview and highlights on edge plasmas from various devices,15:20,20,410,Qingquan Yang,"Institute of Plasma Physics, Chinese Academy of Sciences",Recent Advances in Small ELM Regimes: Highlights from EAST Tokamak
+SG-1: Reconnection,15:20,20,503,Qiyang Xiong,Wuhan University,Guide Field Dependence of Energy Conversion and Magnetic Topologies in Reconnection Turbulent Outflow
+B1-1: Diagnostics,15:25,15,413,Ying Hao Matthew Liang,"Agency for Science, Technology and Research (A*STAR",Conceptual design of a Doppler Backscattering diagnostic for the EXL-50U spherical tokamak
+B1-2: Simulation,15:30,15,404,Rui Costa,UKAEA,Towards visualizing multi-dimensional gyrokinetic simulation data
+SA-1: Solar methodology,15:30,15,502,Shuting Li,Purple Mountain Observatory,Unveiling the heating source inside an erupting prominence as observed by Solar Orbiter/Metis and ASO-S/LST
+F-3: Alfvén waves and turbulence,15:35,15,414,Keizo Fujimoto,Beihang University,Waves and Turbulence in the Electron Diffusion Region to Drive Magnetic Reconnection
+A1-2: atmopsheric pressure plasma technology,15:40,20,402+403,Chuansheng Zhang,"Institute of Electrical Engineering, Chinese Academy of Scie",Improving high-temperature capacitive energy storage of biaxially oriented polypropylene using atmospheric pressure plasma jet
+B1-1: Diagnostics,15:40,15,413,Valerian Hall-Chen,"FEAT SRTT, A*STAR",DBS measurements of turbulence spectra in Bouncing Ball DIII-D plasmas
+CD-1: ELMs,15:40,20,401,Garbet Xavier,NTU/CEA,Closure models for simulations of drift wave turbulence
+L1-1: LabA/HighF/Z-pinch,15:40,15,411,Yuki Amano,ISAS/JAXA,A Laboratory plasma experiment for application to X-ray astronomy using a compact electron beam ion trap (EBIT)
+MF1-1: Stellarator Physics,15:40,20,409,Hongxuan Zhu,Zhejiang University,Global eigenmode structure of linear drift-wave instabilities on flux surfaces in stellarators
+MF2-1: Overview and highlights on edge plasmas from various devices,15:40,15,410,Florian Koechl,ITER Organization,Integrated time-dependent core-edge-SOL modelling of ITER SRO plasma scenarios
+SG-1: Reconnection,15:40,15,503,Johan Sharma,Indian Institute Of Technology Hyderabad,Electron scale current sheets in kinetic Alfvén wave turbulence
+B1-2: Simulation,15:45,15,404,Maho Matsukura,The University of Tokyo,Effect of ion mass on ExB Electron Drift Instability by 2D PIC simulation
+SA-1: Solar methodology,15:45,15,502,Feng Chen,Nanjing University,Data-driven Radiative Magnetohydrodynamics Simulations with the MURaM code
+L1-1: LabA/HighF/Z-pinch,15:55,15,411,Po-Yu Chang,"Institute of Space and Plasma Sciences, National Cheng Kung ",Experimental Study of the Criteria for Rod Explosion in Pulsed Power Discharges
+A1-2: atmopsheric pressure plasma technology,16:00,15,402+403,Yunkai Chen,chenyunkai@stu.cqu.edu.cn,Comparison of the energy transmission characteristics of Annular SDBD under AC and Nanosecond Pulsed Excitation
+MF1-1: Stellarator Physics,16:00,20,409,Jacobo Varela Rodriuez,"Institute for Fusion Studies, Department of Physics, Univers",Bursting activity in LHD plasma induced by multiple EP populations
+A1-3: Plasma processing and surface engineering,16:20,20,402+403,Shazia Bashir,"GC, Women University Sialkot",Laser -induced plasma as a reliable and versatile tool for material processing
+MF1-2: Stellarator Physics& Tokamak Disruption,16:20,20,409,Yiming Zu,University of Science and Technology of China,Hall MHD Simulations of MARFE Dynamics in Limiter and Divertor Configurations
+A2-4: Plasma Agriculture,16:30,20,405+406,Nobuyuki Uozumi,Tohoku University,Nitrogen gas fertilization via plasma technology to promote plant growth
+B1-3: Diagnostics,16:30,20,413,Naohiro Kasuya,"RIAM, Kyushu Univ.",Synthetic diagnostics for fluctuation detection in toroidal plasmas
+B1-4: Simulation,16:30,20,404,Jie Huang,Southwestern Institute of Physics,Three-dimensional nonlinear modeling of tokamak plasmas with applied Magnetic Perturbations
+B2-2: Low temperature plasma I,16:30,20,504+505,Yong-Xin Liu,Dalian University of Technology,Equivalent circuit modeling for electrical parameter diagnostic of a pulse-modulated RF capacitively coupled plasma
+CD-2: Impurities,16:30,40,401,Weixin Guo,Huazhong University of Science and Technology,Comprehensive study of the transport and kinetic source of helium ash from alpha particles
+F-4: Experimental and numerical verifications,16:30,20,414,Fabien Widmer,Max Planck Institute for Plasma Physics,First-Principle Gyrokinetic Simulations of Turbulence-Driven Magnetic Islands in Tokamaks
+L1-2: Laser Plasma Interaction,16:30,20,411,Chengzhuo Xiao,Hunan University,Spatial distributions of laser-plasma instability in the beam overlapping region
+L2-2: X-ray and Radiation,16:30,20,412,Jorge Vieira,Instituto Superior Técnico,Superradiant light sources based on plasma accelerators in the nonlinear blowout regime
+MF2-2: Modelling on edge plasma,16:30,20,410,Dieter Boeyaert,University of Wisconsin-Madison,Particle exhaust studies in non-resonant divertors using EMC3-EIRENE
+SA-2: Magnetic field,16:30,20,502,Shuhong Yang,"National Astronomical Observatories, Chinese Academy of Scie",Magnetic field and meridional flow in the solar polar regions
+SG-2: Shocks and Wave Generation,16:30,20,503,Fumiko Otsuka,Kyushu University,Time series analysis of electron acceleration in quasi-perpendicular shock transition regions
+A1-3: Plasma processing and surface engineering,16:40,20,402+403,Naoto Yamashita,Kyushu University,Large area fabrication of electrically switchable magnetic garnet using a plasma process
+MF1-2: Stellarator Physics& Tokamak Disruption,16:40,20,409,Wei Xia,"Institute of Plasma Physics, Chinese Academy of Science; Uni",Characteristic of Thermal Quench and its Interpretive JOREK Simulation in EAST Disruptions
+A2-4: Plasma Agriculture,16:50,20,405+406,Yuki Yanagawa,Chiba University,Atmospheric-pressure plasma promoted germination and growth in Sorghum bicolor
+B1-3: Diagnostics,16:50,20,413,Siriyaporn Sangaroon,Mahasarakham University,Recent progress in advanced diagnostics for Thailand Tokamak-1
+B1-4: Simulation,16:50,20,404,Hideaki Miura,National Institute for Fusion Science,Characterization of Hall MHD turbulence as wave turbulence
+B2-2: Low temperature plasma I,16:50,20,504+505,Yangyang Fu,Tsinghua University,Similarity laws and scaling networks for radio frequency plasmas
+F-4: Experimental and numerical verifications,16:50,20,414,Alessandro Fassina,"ENEA, Centro Ricerche Frascati, Via Enrico Fermi","PROTO-SPHERA, a MHD configuration formed and sustained by magnetic reconnections"
+L1-2: Laser Plasma Interaction,16:50,20,411,Matthew Edwards,Stanford University,Diffractive Plasma Optics for Compact Ultra-High-Power Femtosecond Lasers
+L2-2: X-ray and Radiation,16:50,20,412,Zhan Jin,"SANKEN, Osaka University",Advancing Laser Wakefield Acceleration: Toward a Compact Tabletop XUV Free-Electron Laser
+MF2-2: Modelling on edge plasma,16:50,20,410,Sales De Oliveira Diego,IRFM - CEA Cadarache,3D numerical modeling of power exhaust and W migration in WEST plasma taking into account the impact of realistic wall and magnetic geometry
+SA-2: Magnetic field,16:50,20,502,Istvan Pusztai,Chalmers University of Technology,From Weibel seed generation to saturated dynamo in collisionless plasmas with finite mass ratio
+SG-2: Shocks and Wave Generation,16:50,20,503,Shuichi Matsukiyo,Kyushu University,Power laser experiment of magnetized shock: Reflected ions and nonstationarity
+A1-3: Plasma processing and surface engineering,17:00,20,402+403,Naho Itagaki,Kyushu University,Nucleation-Controlled Sputtering Growth of Epitaxial and Non-Epitaxial Oxide Semiconducting Thin Films
+MF1-2: Stellarator Physics& Tokamak Disruption,17:00,20,409,Chang Liu,Peking University,Analysis and Simulation of Effective Runaway Electron Mitigation Using a Passive Coil in J-TEXT Tokamak
+A2-4: Plasma Agriculture,17:10,20,405+406,Shoko Tsuboyama,Utsunomiya University,Establishment of experimental systems to analyze the effects of low-temperature plasma on plant growth and the initial intracellular responses using Marchantia polymorpha
+B1-3: Diagnostics,17:10,15,413,Eiichiroou Kawamori,"Institute of Space and Plasma Sciences, National Cheng Kung ",Experimental Plan for Measuring Fluctuations in the Velocity Distribution Function of Relativistic Electrons Using Electron Cyclotron Emission Spectra in the Spherical Tokamak FIRST
+B1-4: Simulation,17:10,20,404,Takashi Shiroto,"Department of Physics, Nagoya University",Energy-consistent discontinuous Galerkin schemes for the visco-resistive magnetohydrodynamic equations
+B2-2: Low temperature plasma I,17:10,15,504+505,Anisa Qamar,"Department of Physics, University of Peshawar",Magnetosonic shock waves in degenerate electron-positron-ion plasma with distinct spin densities
+CD-2: Impurities,17:10,20,401,Patrick Diamond,UC San Diego,"Radiative Condensation ,Turbulence and the Power Scaling of the Density Limit"
+F-4: Experimental and numerical verifications,17:10,20,414,Muni Zhou,Dartmouth College,Magnetogenesis in collisionless plasma
+L1-2: Laser Plasma Interaction,17:10,20,411,Byoung-Ick Cho,Gwangju Institute of Science and Technology,Frustrated Brunel Heating by Relativistic Gyromagnetic Effects in Ultraintense Laser-Matter Interactions
+L2-2: X-ray and Radiation,17:10,20,412,Taiwu Huang,Shenzhen Technology University,Control of laser-driven relativistic electron beams and its application in generating compact radiation sources
+MF2-2: Modelling on edge plasma,17:10,20,410,Manuel Scotto D'Abusco,Princeton Plasma Physics Laboratory (PPPL,Predicting 3D heat fluxes of non-axisymmetric plasmas in SPARC tokamak with the HEAT code
+SA-2: Magnetic field,17:10,20,502,Nobumitsu Yokoi,University of Tokyo,Novel effects of kinetic and cross helicities in solar- and astro-physics
+SG-2: Shocks and Wave Generation,17:10,15,503,Tomo-Hiko Watanabe,"Department of Physics, Nagoya University",Gyrokinetic simulation of auroral arc growth in a dipole field
+A1-3: Plasma processing and surface engineering,17:20,20,402+403,Heeyeop Chae,Sungkyunkwan University (SKKU,Plasma-Based Atomic Layer Etching of Metals and Dielectric Materials
+MF1-2: Stellarator Physics& Tokamak Disruption,17:20,20,409,Wei Zheng,Huazhong University of Science and Technology,Disruption Prediction for Future Tokamak Reactors from Different Perspectives and with Different Methods
+SG-2: Shocks and Wave Generation,17:25,15,503,Ruolin Wang,the University of Tokyo,High-Frequency Wave Generation at Earth’s Bow Shock: Insights from Shock-Driven Electron Acceleration
+A2-4: Plasma Agriculture,17:30,15,405+406,Santosh Dhungana,Tribhuvan University,"Plasma-activated water (PAW) from a customized power system: generation, analysis, and plant growth enhancement"
+B1-4: Simulation,17:30,15,404,Takayuki Umeda,Hokkaido University,New integrator for relativistic equations of motion for charged particles
+CD-2: Impurities,17:30,20,401,Ting Wu,Southwestern Institute of Physics,Impact of edge turbulence spreading on broadening the heat flux width in plasma approaching the density limit
+F-4: Experimental and numerical verifications,17:30,20,414,Chiara Marchetto,ISC-CNR and Politecnico di Torino,Magnetic reconnection in the presence of magnetic chaos: effects on secondary instability via 3D simulations
+L1-2: Laser Plasma Interaction,17:30,20,411,Mario Manuel,General Atomics,Integration and testing of advanced algorithms for controlling high-energy-density-physics experiments
+L2-2: X-ray and Radiation,17:30,20,412,Alexander Pirozhkov,KPSI QST,Burst Intensification by Singularity Emitting Radiation: Towards Terawatt compact coherent x-ray source
+MF2-2: Modelling on edge plasma,17:30,20,410,Makoto Oya,Kyushu university,Evaluation study of fuel retention in plasma-facing walls of JA DEMO reactor
+SA-2: Magnetic field,17:30,15,502,Bidya Binay Karak,Indian Institute of Technology (BHU) Varanasi,Observed Joy's law during the emergence of bipolar sunspots unveils their origin
+A1-3: Plasma processing and surface engineering,17:40,20,402+403,Kwang-Ryeol Lee,Korea Institute of Science and Technology,Plasma Application for Manipulating Surface Properties by Diamond-like Carbon Coatings and Surface Modification
+MF1-2: Stellarator Physics& Tokamak Disruption,17:40,15,409,Zhe Chen,University of Science and Technology,Nonlinear excitation of energetic particle-induced geodesic acoustic mode via resonance overlap with Alfvén instability in CFQS
+SG-2: Shocks and Wave Generation,17:40,15,503,Sebastián Saldivia,University of Chile,The effect of plasma expansion on the dispersion properties of MHD waves
+A2-4: Plasma Agriculture,17:45,15,405+406,Quoc An Ha Than,"Institute of Advanced Technology, Vietnam Academy of Science",The Impact of Plasma Activated Seawater on Postharvest Sea Grapes Caulerpa lentillifera
+B1-4: Simulation,17:45,15,404,Yong Cao,"Harbin Institute of Technology, Shenzhen",A Generalized External Circuit Model for high order Electrostatic IFE-PIC codes
+SA-2: Magnetic field,17:45,15,502,Yihua Li,Nanjing University,Data-constrained MHD simulation of solar corona including solar wind effects
+CD-2: Impurities,17:50,20,401,Bin Ahn,Korea Advanced Institute of Science and Technology,Cross-field diffusion of magnetized low temperature plasmas near separatrix: A Particle-In-Cell simulation study
+F-4: Experimental and numerical verifications,17:50,15,414,Cosmas Heiss,EPFL,Design of an advanced stabilizing shape controller on TCV using a rapid free-boundary simulator
+L1-2: Laser Plasma Interaction,17:50,20,411,Yin Shi,University of Science and Technology of China,Generation of 10 kT axial magnetic fields using multiple conventional laser beams: A sensitivity study for kJ PW-class laser facilities
+L2-2: X-ray and Radiation,17:50,20,412,Dominika Maslarova,Chalmers University of Technology,Batch Bayesian optimization of attosecond betatron pulses from laser wakefield acceleration
+MF2-2: Modelling on edge plasma,17:50,20,410,Chaofeng Sang,Dalian University of Technology,Simulation of first wall erosion and high-Z impurity transport in EAST tokamak Boundary
+MF1-2: Stellarator Physics& Tokamak Disruption,17:55,15,409,Hiroyuki Yamaguchi,"National Institute for Fusion Science, National Institutes o",An Innovative Stellarator: Variable Symmetry Torus
+SG-2: Shocks and Wave Generation,17:55,15,503,Yoshiharu Omura,"Research Institute for Sustainable Humanosphere, Kyoto Unive",Nonlinear Wave Growth of Whistler-mode Hiss Emissions in the Plasmasphere
+A1-3: Plasma processing and surface engineering,18:00,15,402+403,Erik V Johnson,"LPICM, CNRS, Ecole Polytechnique, Institut Polytechnique de ",Etching Uniformity and Profile Control in Patterned Plasma System for HJT-IBC Solar Cell Fabrication
+F-4: Experimental and numerical verifications,18:05,15,414,Ritoku Horiuchi,National Institute for Fusion Science,Ion FLR effect in ion heating during the merging of two spherical-tokamak-type plasmoids
+CD-2: Impurities,18:10,20,401,Shanni Huang,Huazhong University of Science and Technology,Theory of impurity effects on electromagnetic instabilities and the associative transport in the tokamak pedestal
+L1-2: Laser Plasma Interaction,18:10,15,411,Devdigvijay Singh,Stanford University,Light-Structuring Plasma Holograms
+L2-2: X-ray and Radiation,18:10,15,412,Amar Pal,Indian Institute of Technology Hyderabad,High Harmonic Generation using Plasma Wedge Target
+MF1-2: Stellarator Physics& Tokamak Disruption,18:10,15,409,Akihiro Shimizu,National Institute for Fusion Science,Construction and experiment of quasi-axisymmetric stellarator CFQS-T
+MF2-2: Modelling on edge plasma,18:10,15,410,Alexander Knieps,Forschungszentrum Juelich GmbH,Exploring improved PFC heat load distributions on Wendelstein 7-X using multi-objective optimization
+A1-3: Plasma processing and surface engineering,18:15,15,402+403,Yuan-Ming Chang,"Ph.D. Program of Electrical and Communications Engineering, ",Residual Stress and Related Properties of TiO2/TiN/TiC Thin Films Deposited by Ion Energy Modulated ALIS and Magnetron Sputtering Hybrid Process
+F-4: Experimental and numerical verifications,18:20,15,414,Hannah Bellenbaum,Helmholtz-Zentrum Dresden-Rossendorf,Estimating ionization states and continuum lowering from ab initio path integral Monte Carlo simulations for warm dense hydrogen
+L1-2: Laser Plasma Interaction,18:25,15,411,Taranjot Singh,Dav University,Second harmonic generation of high power Cosh-gaussian laser beam in Cold Quantum Plasma
+MF1-2: Stellarator Physics& Tokamak Disruption,18:25,15,409,Shuhei Sumida,National Institutes for Quantum Science and Technology,Observation of runaway electrons with neutron flux monitors in the initial operation phase of JT-60SA
+MF2-2: Modelling on edge plasma,18:25,15,410,Chase Hargrove,The Pennsylvania State University,The Synergistic Effects of Plasma and Heat Loads on Dispersion-Strengthened Tungsten in DIII-D
+A1-3: Plasma processing and surface engineering,18:30,15,402+403,Jiayu Li,Chongqing University,Study on characteristics of droplet-covered annular surface dielectric barrier discharge excited by microsecond pulse
+CD-2: Impurities,18:30,15,401,Chuang Ren,University of Rochester,Ion-electron temperature equilibration in magnetized collisionless shocks
+A1-3: Plasma processing and surface engineering,18:45,15,402+403,Yujiao Gao,"School of Electrical Engineering, Chongqing Universuty",Research on the aerodynamic characteristics of sawtooth annular surface dielectric barrier discharge actuator under AC ecitation

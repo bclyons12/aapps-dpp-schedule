@@ -1,0 +1,131 @@
+Session,Time,Duration,Room,Speaker,Affiliation,Title
+Plenary6,08:30,30,203+204,Alexey Arefiev,UC San Diego,Exploring new physics regimes with ultra-high-intensity laser-plasma interactions
+Plenary6,09:00,30,203+204,Ying Li,Purple Mountain Observatory,The solar white-light flares observed by ASO-S and CHASE
+Plenary6,09:30,30,203+204,Colin M Roach,UKAEA,Recent Progress in our Understanding of Electromagnetic Turbulence in a Conceptual Spherical Tokamak FPP (STEP)
+Plenary6,10:00,30,203+204,Edward Thomas,Auburn University,Magnetization of electrons and ions and their influence on dusty plasmas
+Plenary7,11:00,30,203+204,Ramses Snoeckx,"Empa, Swiss Federal Laboratories for Materials Science and T","Electrons, kinetics, and entropy: unlocking the full potential of plasma-based gas conversion"
+Plenary7,11:30,30,203+204,Brendan Lyons,General Atomics,Pulse Design and Digital Twin Capabilities of the FUSE Integrated-Modeling Framework
+Plenary7,12:00,30,203+204,Joanna Pawlat,Lublin University of Technology,Application of Non-Thermal Plasma in Food Treatment and Biological Material Conditioning
+Plenary7,12:30,30,203+204,Nareshpal Singh Saini,Guru Nanak Dev University Amritsar,Breather Structures and Peregrine Solitons in a Polarized Space Dusty Plasma
+B1-10: Data Science,14:00,20,413,Mitsuru Honda,"Graduate School of Engineering, Kyoto University",Transport model surrogates via Gaussian process regression
+B2-7: Low temperature plasma II,14:00,20,504+505,Fumiaki Mitsugi,Kumamoto University,Application of optical wave microphone for plasma jets
+CD-7: MHD turbulence,14:00,40,401,Rahul Pandit,"Department of Physics, Indian Institute of Science",Large-scale multifractality and non-self-similar energy decay in one-dimensional (1D) Burgers and three-dimensional (3D) Navier-Stokes turbulence
+L1-7: IFE alternative,14:00,20,411,Takashi Kikuchi,Nagaoka University of Technology,Study on Peripheral System and Issues for Heavy–Ion Inertial Fusion Reactor
+L2-7: HHG and THz,14:00,20,412,Tsuneyuki Ozaki,INRS-EMT,High-order harmonics generation and attosecond dynamics in laser-produced plasma
+MF1-7: High-Performance Plasmas,14:00,20,409,Juan Huang,ASIPP,Recent Progress of Long-pulse High-confinement Plasma on EAST
+MF2-7: Wall conditioning,14:00,20,410,Jeongwon Lee,Korea Institute of Fusion Energy,Poloidal field configuration effect to electron cyclotron wall cleaning in KSTAR
+SA-7: CMEs,14:00,20,502,Ayumi Asai,"Astronomical Observatory, Kyoto University","Advancing Solar Observations with DST and SMART, Hida Observatory, Kyoto University"
+SG-7: Ionosphere,14:00,20,503,Jing Jiao,"NSSC,CAS",Equatorward wind driven significant upwelling of Ca+ layer over middle latitude during the November 2023 strong geomagnetic storm
+B1-10: Data Science,14:20,20,413,Aaro Järvinen,VTT,Towards scalable large-scale model validation with data science
+B2-7: Low temperature plasma II,14:20,20,504+505,Simon P. H. Vincent,"Ecole Polytechnique de Lausanne (EPLF), Swiss Plasma Center ",Helicon waves in toroidal geometry
+L1-7: IFE alternative,14:20,20,411,Wei-Min Wang,"Department of Physics, Renmin University of China",Laser parameter design for DCI laser fusion
+L2-7: HHG and THz,14:20,20,412,Yao-Li Liu,"Institute of Space and Plasma Sciences, National Cheng Kung ",Tomographic Measurement and Quasi-Phase Matching of High-Order Harmonic Generation via the Selected-Zoning Method
+MF1-7: High-Performance Plasmas,14:20,20,409,Toshiki Kinoshita,Kyushu university,Advances in Turbulence-Driven Transport Control for improved Plasma Confinement
+MF2-7: Wall conditioning,14:20,20,410,Karl Krieger,Max-Planck-Institute for Plasma Physics,Efficiency of glow discharge boronisation in ASDEX Upgrade and WEST
+SA-7: CMEs,14:20,20,502,Qingmin Zhang,Purple Mountain Observatory,Investigating the early evolutions of non-radial solar eruptions
+SG-7: Ionosphere,14:20,20,503,Binzheng Zhang,The University of Hong Kong,Transition from a Dungey convection- to rotation-dominated magnetosphere: Implications of magnetic topology and auroral morphology
+B1-10: Data Science,14:40,20,413,Shinya Maeyama,National Institute for Fusion Science,Improvement of turbulent transport model using multi-fidelity data fusion approach
+B2-7: Low temperature plasma II,14:40,20,504+505,Daiki Nishimura,National Institute for Fusion Science,Rotational movement analysis for cylindrical plasma images obtained with tomography
+CD-7: MHD turbulence,14:40,20,401,James Beattie,Princeton University and the Canadian Institute of Theoretic,Fundamental Results from the World’s Largest Simulation of Compressible MHD Turbulence: Applications to Astrophysical and Space Plasmas
+L1-7: IFE alternative,14:40,20,411,Naoki Okuda,The University of Osaka,High-density plasma heating with non-local electrons accelerated at a steepened plasma surface formed by PW relativistic laser
+L2-7: HHG and THz,14:40,20,412,Aurélien Houard,"Laboratoire d'Optique Appliquée, CNRS, ENSTA, Ecole polytech",Steering laser-produced THz radiation in air with superluminal ionization fronts
+MF1-7: High-Performance Plasmas,14:40,20,409,Nengchao Wang,Huazhong University of Science and Technology,Electron internal transport barrier induced by NTM in the ECRH plasma on J-TEXT
+MF2-7: Wall conditioning,14:40,20,410,Florian Effenberg,Princeton Plasma Physics Laboratory,"Real-time boron injection for plasma-facing component conditioning, tungsten source control, and implications for ITER"
+SA-7: CMEs,14:40,20,502,Xiaozhou Zhao,"Yunnan Observatories, CAS",Flux rope eruptions and shocks: 2.5D numerical modeling
+SG-7: Ionosphere,14:40,20,503,Hyuckjin Kwon,Korea Polar Research Institute,Sun-aligned arc motion driven by magnetic reconnection under northward IMF
+B1-10: Data Science,15:00,20,413,Alex Panera Alvarez,DIFFER,Pellet Fueling: AI-Enhanced Surrogate Modeling and Integrated Modelling
+B2-7: Low temperature plasma II,15:00,20,504+505,Atsushi Okamoto,Nagoya University,High temperature bubble phenomenon in ECR plasmas
+CD-7: MHD turbulence,15:00,20,401,Ameir Shaa Bin Akber Ali,NTU,Fast Hybrid Neural Interpolation of Nonlinear Dynamics
+L1-7: IFE alternative,15:00,20,411,Tomoyuki Johzaki,Hiroshima University,Neutronic effects on ignition and burn dynamics in fast ignition laser fusion
+L2-7: HHG and THz,15:00,20,412,Seong Hee Park,Korea University Sejong campus,"R&Ds of Compact, hybrid-type sub-THz Wakefield Accelerator"
+MF1-7: High-Performance Plasmas,15:00,20,409,Gianluca Pucella,"ENEA, C.R. Frascati",Hybrid scenario at high beta with mild MHD activity on MAST-U
+MF2-7: Wall conditioning,15:00,20,410,Shota Abe,Princeton Plasma Physics Laboratory,Deuterium retention and removal of boron powder to estimate tritium inventory in advanced fusion reactors
+SA-7: CMEs,15:00,20,502,Jinhan Guo,Nanjing University,Numerical MHD Modelings of Failed Solar Eruptions: Constraints and Observational Manifestations
+SG-7: Ionosphere,15:00,20,503,Laila Zafar Kahlon,"Forman Christian College (a Chartered University), Lahore",Damped KP equation for magnetosonic waves in a dissipative ionospheric F Layer OH plasma
+B1-10: Data Science,15:20,15,413,Kotaro Fujii,Nagoya University,Causal relationship from multivariate time series and dominant scale for ITG turbulent transport
+B2-7: Low temperature plasma II,15:20,20,504+505,Akihito Ogawa,Kyoto Institute of Technology,Experimental analysis of the antisymmetric vorticity during convective vortex merging in electron plasma
+CD-7: MHD turbulence,15:20,20,401,David Garrido González,Aix-Marseille University,Modeling Nonlinear and Chaotic Dynamics with Interpretable Data-Driven Reduced Order Models
+L1-7: IFE alternative,15:20,15,411,Yasuhiko Sentoku,"Institute of Laser Engineering, The University of Osaka",Fast heatwave ignition in laser fusion
+L2-7: HHG and THz,15:20,20,412,Linzheng Wang,Shanghai Jiao Tong University,Terahertz Vortices with Tunable Topological Charges from a Laser-Plasma Channel
+MF1-7: High-Performance Plasmas,15:20,20,409,Chiara Piron,"Consorzio RFX, ENEA",Advances toward high-beta long-pulse operation in the WPTE tokamaks
+SA-7: CMEs,15:20,20,502,Chen Xing,Nanjing University,Unveiling the Initiation Route of Coronal Mass Ejections through Their Slow Rise Phase
+SG-7: Ionosphere,15:20,20,503,Jesus Perez,"University of California, Los Angeles",Direct Comparison of Whistler Mode Radiation Between an Electric Dipole and Loop Antenna in a Laboratory Plasma
+B1-10: Data Science,15:35,15,413,Shan Wei,Shanghai Jiao Tong University,Three-dimensional Radiation Reconstruction Based on X-ray Imaging via Convolutional Neural Network
+B2-7: Low temperature plasma II,15:40,15,504+505,Geethika B R,Institute for Plasma Research,Analysis of Polarized Emission from Laser Produced Plasma
+CD-7: MHD turbulence,15:40,20,401,Minjun Choi,Korea Institute of Fusion Energy,"Mesoscopic transport in KSTAR, HL-3, and DIII-D tokamaks"
+MF1-7: High-Performance Plasmas,15:40,20,409,Akira Ejiri,The University of Tokyo,Parameter surveys for a fusion energy systems integration test facility FAST
+SA-7: CMEs,15:40,20,502,Stephen Vincena,"University of California, Los Angeles",Three-wave coupling between shear Alfvén waves and kink-unstable magnetic flux ropes
+SG-7: Ionosphere,15:40,15,503,Kshama Tiwari,Banaras Hindu University,Multi-instrument study on the Great American Solar Eclipse
+A1-10: Thermal plasma/Nano-energy material,16:20,20,404,Xiaolei Fan,The University of Manchester,On the role of sheath layer in nonthermal plasma catalysis
+A1-9: Plasma catalyist/Liquid interaction,16:20,20,402+403,Hang Wang,Institute of Electrical Engineering Chinese Academy of Scien,"Microsecond pulse discharge in oil: electrohydraulic effect, gas generation and mechanics"
+MF1-8: Tokamak Operation and Z pinch,16:20,20,409,Pedro Andres Molina Cabrera,Swiss Plasma Center - EPFL,Fast electron generation during tokamak startup: experiments and simulations in the TCV tokamak
+A2-9: FUNDAMENTAL,16:30,20,405+406,Toshiyuki Kawasaki,Nishinippon Institute of Technology,Control of liquid flows generated by plasma–liquid interactions
+CD-8: Turbulence and Flows,16:30,40,401,Rameswar Singh,UCSD,On collisionless saturation of zonal flow shear in ITG turbulence: Implications for negative triangularity.
+F-10: Numerical simulations and modeling I,16:30,20,414,Tara Ahmadi,University of Tokyo,Numerical study on Ion and Electron Dynamics and the Role of Electrostatic Potential on Particle Heating in Merging startup in TS-6 experiment
+L1-8: Laser Plasma Interaction,16:30,20,411,Nicholas Dover,Imperial College London,Developing a novel platform for investigating intense near-critical-density laser plasma interactions
+L2-8: Nuclear and Ion,16:30,20,412,Dong Wu,Shanghai Jiao-Tong University,Mechanisms behind the surprising observation of supra-thermal ions in fusion burning plasmas
+MF2-8: PWI and power exhuastion,16:30,20,410,Leonid Zakharov,LiWFusion,From tokamaks to toga device with lithium plasma environment and eliminated PSI
+SA-8: Solar flares,16:30,20,502,Yulei Wang,Nanjing University,Three-dimensional Magnetic Reconnection within Strongly Turbulent Solar Flare Current Sheets
+SG-8: Solar-Wind and Nonlinear Processes,16:30,20,503,Junyi Ren,CAS Center for Excellence in Comparative Planetology/CAS Key,Hybrid simulations of the formation and evolution of magnetosheath jets
+A1-10: Thermal plasma/Nano-energy material,16:40,20,404,Tzu-Ying Lin,"Department of Materials Science and Engineering, National Ts",Plasma-Assisted Surface Modification on TiNb2O7 Anode for High-Rate Lithium-Ion Battery
+A1-9: Plasma catalyist/Liquid interaction,16:40,20,402+403,Quan-Zhi Zhang,Dalian University of Technolgoy,"Plasma streamer propagation dynamics in gas phase DBD, catalyst pores and SDBD"
+MF1-8: Tokamak Operation and Z pinch,16:40,20,409,Adriano Mele,Swiss Plasma Center EPFL,Plasma integrated control: a perspective and outlook on the recent advancements at the TCV tokamak
+A2-9: FUNDAMENTAL,16:50,20,405+406,Takehiko Sato,Tohoku University,High-speed nanodroplets for innovation in water utilization
+F-10: Numerical simulations and modeling I,16:50,20,414,Tianchao Xu,Tsinghua University,Experimental Investigation of Inward Particle Transport Driven by Vorticity Flux in the PPT Device
+L1-8: Laser Plasma Interaction,16:50,20,411,Hayato Yanagawa,The University of Osaka,Study on propagation characteristics of relativistic laser light in overcritical density plasma
+L2-8: Nuclear and Ion,16:50,20,412,Zheng Gong,"Institute of Theoretical Physics, Chinese Academy of Science",Laser wakefield acceleration of ions with a transverse flying focus
+MF2-8: PWI and power exhuastion,16:50,20,410,Qinghu Yang,Huazhong University of Science and Technology,The construction and experiment results of high-field-side divertor target biasing system (HDTB) on J-TEXT
+SA-8: Solar flares,16:50,20,502,Xiaoping Zhang,Macau University of Science and Technology,Unveiling mass transfer in solar flares: Insights from elemental abundance evolutions observed in Chang’E-2 and MSS missions
+SG-8: Solar-Wind and Nonlinear Processes,16:50,20,503,Fang Shen,"National Space Science Center (NSSC), Chinese Academy of Sci",Simulation of Solar Energetic Particles Propagation under Stream Interaction Regions
+A1-10: Thermal plasma/Nano-energy material,17:00,20,404,Feng Liang,Kunming University of Science and Technology,Multi-scales Modification of Energy Materials by Nonthermal Plasma
+A1-9: Plasma catalyist/Liquid interaction,17:00,20,402+403,Nikola Skoro,Institute of Physics Belgrade,Measurement of reactive species in atmospheric pressure plasma systems used for creation of plasma activated liquids
+MF1-8: Tokamak Operation and Z pinch,17:00,20,409,John Berkery,Princeton Plasma Physics Laboratory,Research Advancing the Physics of Spherical Tokamaks in Preparation for Operation of NSTX-U
+A2-9: FUNDAMENTAL,17:10,20,405+406,Yoko Yamanishi,Kyushu University,Emergent Functions of Plasma-induced Bubble
+CD-8: Turbulence and Flows,17:10,20,401,Kimitaka Itoh,Chubu University,On subcritical excitations of plasma turbulence
+F-10: Numerical simulations and modeling I,17:10,20,414,Animesh Kuley,Indian Institute of Science Bangalore,Neural network-assisted electrostatic global gyrokinetic toroidal code using cylindrical coordinates
+L1-8: Laser Plasma Interaction,17:10,20,411,David Blackman,ELI ERIC Beamlines Facility,Laser beam smoothing techniques including the use of broadband width signals and their effect on high energy density plasmas
+L2-8: Nuclear and Ion,17:10,20,412,Wenpeng Wang,"Shanghai Institute of Optics and Fine Mechanics (SIOM), Chin",Isolated Attosecond γ-Ray Pulse Generation with Transverse Orbital Angular Momentum Using Intense Spatiotemporal Optical Vortex Lasers
+MF2-8: PWI and power exhuastion,17:10,20,410,Choongki Sung,Korea Advanced Institute of Science and Technology,Development of a Scrape Off Layer Plasma Simulator using a magnetic mirror device in KAIST (KAIMIR)
+SA-8: Solar flares,17:10,20,502,Bhuwan Joshi,Udaipur Solar Observatory,Energy Release and Coronal Dynamics in Solar Flares: Insights from 2D and 3D Magnetic Reconnection Models
+SG-8: Solar-Wind and Nonlinear Processes,17:10,20,503,Kun-Han Lee,"National Center for High-performance Computing, NIAR",Generation of Kinetic Alfvén Waves and Parallel Ion Cyclotron Waves Triggered by Ion Beam Modes in the Solar Wind
+A1-10: Thermal plasma/Nano-energy material,17:20,20,404,Rajdeep Singh Rawat,"Natural Sciences and Science Education, Nanyang Technologica",Nanostructured Carbon Technologies via Cold/Hot Plasmas for Energy and Media Applications
+A1-9: Plasma catalyist/Liquid interaction,17:20,20,402+403,Susumu Toko,University of Osaka,Sorption enhanced methanation with plasma catalysis using various types of zeolites
+MF1-8: Tokamak Operation and Z pinch,17:20,20,409,Makoto Hasegawa,"RIAM, Kyushu University",Development of Divertor Configuration Control in QUEST with Experiments and AI-Based Identification
+A2-9: FUNDAMENTAL,17:30,20,405+406,Shota Sasaki,Tohoku University,Controlled generation of air plasma-derived reactive nitrogen species and its agricultural applications
+CD-8: Turbulence and Flows,17:30,20,401,Koki Ryono,Kyoto University,Mixing in a two-dimensional fluid and the curvature of the flow domain: how to drive the vorticity field evolve towards the statistical equilibrium
+F-10: Numerical simulations and modeling I,17:30,20,414,Jian Chen,"Sino-French Institute of Nuclear Engineering and Technology,",Observation of Three-dimensional Helical-rotating Plasma Structures in Beam-generated Partially Magnetized Plasmas
+L1-8: Laser Plasma Interaction,17:30,20,411,Yuji Takagi,"ILE, Osaka Univ.",Relativistic electron production by stochastic laser-plasma interaction in sub-relativistic intensity regime
+L2-8: Nuclear and Ion,17:30,15,412,Hui Zhang,"Shanghai Institute of Optics and Fine Mechanics, Chinese Aca",PW femtosecond lasers driven high-quality proton acceleration
+MF2-8: PWI and power exhuastion,17:30,20,410,Jonathan Menard,Princeton Plasma Physics Laboratory,Physics design of a Spherical Tokamak Advanced Reactor (STAR)
+SA-8: Solar flares,17:30,20,502,Xiangliang Kong,Shandong University,Modeling the Acceleration and Transport of Energetic Particles in Solar Flares Based on Macroscopic MHD Simulations
+SG-8: Solar-Wind and Nonlinear Processes,17:30,20,503,Yasuhito Narita,"Institute of Theoretical Physics, Technical University of Br",Electromotive field - The missing puzzle piece of space plasma turbulence
+A1-10: Thermal plasma/Nano-energy material,17:40,20,404,Manabu Tanaka,"Department of Chemical Engineering, Kyushu University",Innovative Thermal Plasma Generation and Its System for Materials Processing
+A1-9: Plasma catalyist/Liquid interaction,17:40,20,402+403,Keigo Takeda,Meijo University,Surface reactions of reactive species in low temperature plasma
+MF1-8: Tokamak Operation and Z pinch,17:40,20,409,Tatsuya Kobayashi,National Institute for Fusion Science,Modeling of charge exchange recombination spectroscopy and inverse problem analysis using Bayesian approach
+L2-8: Nuclear and Ion,17:45,15,412,Clément Lacoste,INRS,Optimization and application of helical coil target with varying geometry and screen tube
+A2-9: FUNDAMENTAL,17:50,20,405+406,Nozomi Takeuchi,Institute of Science Tokyo,Plasma-ozone combination process for decomposition of persistent organic compounds with efficient generation of hydrogen peroxide
+CD-8: Turbulence and Flows,17:50,20,401,Haomin Sun,"Ecole Polytechnique Federale de Lausanne (EPFL), Swiss Plasm",Reducing turbulent transport in tokamaks by combining intrinsic rotation and the low momentum diffusivity regime
+F-10: Numerical simulations and modeling I,17:50,20,414,Chizhou Wang,EPFL,Prediction of runaway electron avalanche in ITER mitigated disruptions via 3D MHD modelling
+L1-8: Laser Plasma Interaction,17:50,15,411,Nathan Smith,"University of York, York Plasma Institute",Surrogate modelling of X-Ray emission and Positron production in Laser-Plasma interactions
+MF2-8: PWI and power exhuastion,17:50,20,410,Nicola Lonigro,United Kingdom Atomic Energy Authority,Improving exhaust performance with total flux expansion and the strongly baffled X-point target divertor on MAST-U
+SA-8: Solar flares,17:50,15,502,Zekun Lu,Nanjing University,Heating the Hot and Super-hot Corona in Solar Active Regions: Insights from MURaM
+SG-8: Solar-Wind and Nonlinear Processes,17:50,20,503,San Lu,University of Science and Technology of China,Three-dimensional global hybrid simulations of plasma transport and energy conversion during solar wind-magnetosphere interactions
+A1-10: Thermal plasma/Nano-energy material,18:00,20,404,Suresh C. Sharma,"Department of Applied Physics, Delhi Technological Universit",Modeling and Simulation of Plasma-Assisted Graphene Field Effect Transistor for Biosensing Applications
+A1-9: Plasma catalyist/Liquid interaction,18:00,15,402+403,Shikha Pandey,Indian Institute of Technology Jodhpur,Environmental Friendly Wastewater Treatment through Non-Thermal Plasma: Mechanistic Insights into Dye Degradation
+MF1-8: Tokamak Operation and Z pinch,18:00,15,409,Nicola Amorisco,UK Atomic Energy Authority,FreeGSNKE: an open source pure-Python predictive evolutive equilibrium code for control design and validation
+L1-8: Laser Plasma Interaction,18:05,15,411,Zi-Yu Chen,Sichuan University,Extreme field generation and high-quality proton acceleration driven by Bessel-Gaussian lasers
+SA-8: Solar flares,18:05,15,502,Philippe-A. Bourdin,University of Graz,Electromotive force measurements in the context of magnetic reconnection
+A2-9: FUNDAMENTAL,18:10,15,405+406,Lixi Zhang,National Key Laboratory of Power Transmission Equipment Tech,Simulation Study of Plasma Ablation Discharge under Dual Time Scales
+CD-8: Turbulence and Flows,18:10,20,401,Justin Ball,"Swiss Plasma Center, EPFL",Intrinsic momentum and current drive by almost-rational surfaces in tokamaks
+F-10: Numerical simulations and modeling I,18:10,15,414,Qihang Li,Peking University Physics College,Avalanche effect correction of runaway electrons
+MF2-8: PWI and power exhuastion,18:10,20,410,Andres Cathey,Max Planck IPP Garching,Fully integrated 3D nonlinear time-dependent modelling of pedestal and scrape-off layer in the JOREK code
+SG-8: Solar-Wind and Nonlinear Processes,18:10,15,503,Saba Khalid,Government College University Lahore,"KdV Modeling of Field-Aligned Potentials in Alfvenic Double Layers by using (r, q) distribution function"
+A1-9: Plasma catalyist/Liquid interaction,18:15,15,402+403,Chun Li,Beijing University of Chemical Technology,Atmospheric Pressure Air Plasma for Efficient Degradation of Aging-related Body Odors
+MF1-8: Tokamak Operation and Z pinch,18:15,15,409,Brad Dempsie,University of Saskatchewan,Extended Stability and Plasma Shock Behavior in a Flow Through Z-pinch
+A1-10: Thermal plasma/Nano-energy material,18:20,20,404,Yasunori Tanaka,Kanazawa University,Highly-Controlled Thermofluid Fields in Tandem Modulated Induction Thermal Plasmas for High-Rate Nanoparticle Synthesis
+L1-8: Laser Plasma Interaction,18:20,15,411,Edna Rebeca Toro Garza,Stanford University,Observing the influence of atomic and nanoscale structure on the DC conductivity of warm dense matter
+F-10: Numerical simulations and modeling I,18:25,15,414,Yutaka Nakamura,The University of Osaka,Verification of fast electrons convergence effect by controlling the plasma density distribution
+SG-8: Solar-Wind and Nonlinear Processes,18:25,15,503,Abhay Kumar Singh,"Department of Physics, Institute of Science, Banaras Hindu U",Multi-instrument study of the response of intense solar flares during the descending period of the 24th solar cycle
+CD-8: Turbulence and Flows,18:30,15,401,Huang Jingcheng,NTU,Extracting stochastic model for predator-prey dynamic of turbulence and zonal flow with limited data
+MF1-8: Tokamak Operation and Z pinch,18:30,15,409,Kajal Shah,Princeton Plasma Physics Laboratory,Study of radiated power asymmetries in the Spherical Tokamak Advanced Reactor (STAR)
+A1-10: Thermal plasma/Nano-energy material,18:40,15,404,Soon Han Bryan Teo,Australian National University,Impact of alloying and exposure temperature on He retention and He thermal dynamics in W-based materials
