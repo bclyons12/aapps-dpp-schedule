@@ -279,9 +279,9 @@
             }
 
             .talk-meta {
-                flex-wrap: wrap;
-                gap: 6px 12px;
+                flex-direction: column;
                 align-items: flex-start;
+                gap: 8px;
             }
 
             .talk-time {
@@ -289,16 +289,22 @@
                 align-items: center;
                 gap: 8px;
                 min-width: auto;
-                flex-wrap: wrap;
+                flex-wrap: nowrap;
+                order: 1;
             }
 
             .talk-title {
-                order: 1;
+                order: 2;
                 width: 100%;
+                margin: 0;
+            }
+
+            .talk-room {
+                order: 1;
             }
 
             .talk-session {
-                order: 2;
+                order: 3;
             }
 
             .talk-speaker-info {
