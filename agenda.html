@@ -279,7 +279,8 @@
             }
 
             .talk-meta {
-                flex-direction: column;
+                flex-direction: row;
+                flex-wrap: wrap;
                 align-items: flex-start;
                 gap: 8px;
             }
@@ -291,16 +292,19 @@
                 min-width: auto;
                 flex-wrap: nowrap;
                 order: 1;
+                flex-shrink: 0;
+            }
+
+            .talk-room {
+                order: 1;
+                flex-shrink: 0;
             }
 
             .talk-title {
                 order: 2;
                 width: 100%;
                 margin: 0;
-            }
-
-            .talk-room {
-                order: 1;
+                flex-basis: 100%;
             }
 
             .talk-session {
