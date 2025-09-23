@@ -1,7 +1,7 @@
 Session,Time,Duration,Room,Speaker,Affiliation,Title
-Plenary2,8:30,30,203+204,Hiroya Yamaguchi,JAXA/ISAS,X-Ray Imaging and Spectroscopy Mission (XRISM): High-Resolution Spectroscopy of Astrophysical Plasmas
-Plenary2,9:00,30,203+204,Vladimir Rosenhaus,CUNY Graduate Center,Theory of Wave Turbulence
-Plenary2,9:30,30,203+204,Anna Tenerani,The University of Texas at Austin,Compressible effects in solar wind turbulence
+Plenary2,08:30,30,203+204,Hiroya Yamaguchi,JAXA/ISAS,X-Ray Imaging and Spectroscopy Mission (XRISM): High-Resolution Spectroscopy of Astrophysical Plasmas
+Plenary2,09:00,30,203+204,Vladimir Rosenhaus,CUNY Graduate Center,Theory of Wave Turbulence
+Plenary2,09:30,30,203+204,Anna Tenerani,The University of Texas at Austin,Compressible effects in solar wind turbulence
 Plenary2,10:00,30,203+204,Gianluca Gregori,University of Oxford,Laboratory astroparticle physics: from the stability of laboratory blazar's jets to heavy axion searches
 Plenary3,11:00,30,203+204,Tobias Dornheim,Helmholtz-Zentrum Dresden-Rossendorf (HZDR,Understanding warm dense matter: from theory to experiment
 Plenary3,11:30,30,203+204,Haiqing Liu,"Institute of Plasma Physics, Chinese Academy of Sciences",Progress on Burning Plasma Diagnostic Design for CFEDR
@@ -81,7 +81,7 @@ MF1-3: MHD Physics,15:50,15,409,Yeongsun Lee,Seoul National University,Binary Na
 MF1-10: Plasma Heating,15:55,15,412,Atsushi Fukuyama,Kyoto University,Kinetic full wave analysis in inhomogeneous plasmas using integral form of dielectric tensor
 CD-3: Magnetic islands,16:00,15,401,Chang Kai Chai,Nanyang Technological University,Transition from electrostatic to electromagnetic instabilities in magnetised plasmas
 A1-5: Plasma surface modification,16:20,20,402+403,Long Chen,Dalian Maritime University,Study on plasma instabilities in Hall thrusters: mechanisms and mitigation strategies
-MF1-4: Integrated Modelling,16:40,20,409,Teobaldo Luda Di Cortemiglia,Max–Planck–Institut fuer Plasmaphysik,Full-radius integrated modelling of the H-mode confinement dependence on plasma size and aspect ratio and predictions of ITER and DEMO
+MF1-4: Integrated Modelling,16:20,20,409,Teobaldo Luda Di Cortemiglia,Max–Planck–Institut fuer Plasmaphysik,Full-radius integrated modelling of the H-mode confinement dependence on plasma size and aspect ratio and predictions of ITER and DEMO
 A2-6: Bio Applications,16:30,20,405+406,Alexander Fridman,"Drexel University, Nyheim Plasma Institute",Non-Thermal Plasma in Liquids: from Chemical and Biological Water Cleaning to Synthesis of New Materials in Liquid Nitrogen
 B1-7: Diagnostics,16:30,20,413,Dong-Joon Lee,Korea Research Institute of Standards and Science,Electro-optic sensing technique for electric field diagnostics of plasma electrodes
 B2-4: Plasma fundamental I,16:30,20,504+505,Kazunori Takahashi,Tohoku University,Radiofrequency plasmas in a magnetic nozzle: fundamental physics and applications
@@ -94,7 +94,7 @@ MF2-4: Physics of edge plasmas,16:30,20,410,Wei Xu,"Institute of Energy, Hefei C
 SA-4: Small-scale phenomena/CME/Stellar CME,16:30,20,502,Rony Keppens,"CmPA, KU Leuven",Mathematics for coronal rain: the hydrodynamic thermal continuum
 SG-4: Wave-Particle Interactions II,16:30,20,503,Bofeng Tang,"State Key Laboratory of Solar Activity and Space Weather, Na",Effect of evolving turbulence on the diffusion coefficients of wave-particle interaction associated with whistler model wave
 A1-5: Plasma surface modification,16:40,20,402+403,Deepak Prasad Subedi,"Dept. of Physics, School of Science, Kathmandu University",Atmospheric Pressure Plasma and its Application for Surface Treatment of Materials
-MF1-4: Integrated Modelling,17:00,20,409,Luca Garzotti,UKAEA,Integrated scenario modelling in support of fusion experiments
+MF1-4: Integrated Modelling,16:40,20,409,Luca Garzotti,UKAEA,Integrated scenario modelling in support of fusion experiments
 A2-6: Bio Applications,16:50,20,405+406,Hiromasa Tanaka,Nagoya University,Unraveling the Biological Effects of Plasma-Activated Solutions: From Basic Science to Applications
 B1-7: Diagnostics,16:50,20,413,Swapnali Khamaru,Kyoto Institute of Technology,Computational and experimental analysis of H-atom-assisted non-thermal conversion of methane-hydrogen plasma to acetylene
 B2-4: Plasma fundamental I,16:50,20,504+505,Zhuang Liu,Soochow University,Investigations of dust and impurities in EAST and HL-3 tokamaks
@@ -106,7 +106,7 @@ MF2-4: Physics of edge plasmas,16:50,20,410,Dmitry Rudakov,"University of Califo
 SA-4: Small-scale phenomena/CME/Stellar CME,16:50,20,502,Tinatin Baratashvili,KU Leuven,From Sun to Earth: Exploring the strengths and challenges of the global 3D MHD time-accurate modelling
 SG-4: Wave-Particle Interactions II,16:50,20,503,Yuto Katoh,"Graduate School of Science, Tohoku University","CubeSat project PCUBE for probing, controlling, and understanding of radiation belt environments"
 A1-5: Plasma surface modification,17:00,20,402+403,Takayuki Watanabe,Kyushu University,Multiphase AC Arc: Fundamentals and Applications
-MF1-4: Integrated Modelling,17:20,20,409,Stefano Gabriellini,"UK Atomic Energy Authority (UKAEA), Culham Campus",Core transport simulations of plasma scenarios for JET and JT-60SA tokamaks: validation and predictions for future JT-60SA experiments
+MF1-4: Integrated Modelling,17:00,20,409,Stefano Gabriellini,"UK Atomic Energy Authority (UKAEA), Culham Campus",Core transport simulations of plasma scenarios for JET and JT-60SA tokamaks: validation and predictions for future JT-60SA experiments
 A2-6: Bio Applications,17:10,20,405+406,Romolo Laurita,Alma Mater Studiorum-Università di Bologna,Production and chemical composition of Plasma Activated Water (PAW) used for food and packaging treatment
 B1-7: Diagnostics,17:10,20,413,Kunihiro Kamataki,Kyushu University,Evaluation method of fine particle charge and measurement of spatial electric field in Ar plasma using optical tweezers method
 B2-4: Plasma fundamental I,17:10,20,504+505,Aohua Mao,Harbin Institute of Technology,Structure characteristics of three-dimensional asymmetric magnetic reconnection in SPERF-AREX experiments
@@ -119,7 +119,7 @@ MF2-4: Physics of edge plasmas,17:10,20,410,Jinheng Zhao,"Institute of Plasma Ph
 SA-4: Small-scale phenomena/CME/Stellar CME,17:10,20,502,Jeffersson Agudelo Rueda,Northumbria University,Characterising Sub-Grid-Scale Effects on Plasma Turbulence in the Earth's Magnetosheath: Contribution to Generalised Ohm’s Law
 SG-4: Wave-Particle Interactions II,17:10,20,503,Si Liu,Changsha University of Science and Technology,Nonlinear Interactions Between Chorus and ECH Waves in the Inner Magnetosphere
 A1-5: Plasma surface modification,17:20,20,402+403,Nan Jiang,Dalian University,The modification of EP/AlN Composites by Rotating DBD
-MF1-4: Integrated Modelling,17:40,20,409,Kai Li,"College of Physics, Qingdao University",Optimized H-mode pedestal predictive model for coupled core-pedestal simulations on EAST
+MF1-4: Integrated Modelling,17:20,20,409,Kai Li,"College of Physics, Qingdao University",Optimized H-mode pedestal predictive model for coupled core-pedestal simulations on EAST
 A2-6: Bio Applications,17:30,20,405+406,Ruonan Ma,Zhengzhou University,Plasma-activated water as potential green adjuvant to enhance the insecticidal activity of pesticides against cotton aphids
 B1-7: Diagnostics,17:30,20,413,Mikirou Yoshinuma,National Institute for Fusion Science,Development of hyperspectral camera for auroral imaging using Galvanometer-mirror-scanning optics
 B2-4: Plasma fundamental I,17:30,20,504+505,Kenichi Nagaoka,National Institute for Fusion Science,Negative-ion-meniscus response to RF perturbation in an injector-scale negative-ion source
@@ -132,7 +132,7 @@ MF2-4: Physics of edge plasmas,17:30,20,410,Kyungtak Lim,Nanyang Technological U
 SA-4: Small-scale phenomena/CME/Stellar CME,17:30,20,502,Liping Yang,"National Space Science Center, Chinese Academy of Sciences",Three-part Structure Formation & Interplanetary Rotation of Mars-Directed Coronal Mass Ejection on 2021 December 4
 SG-4: Wave-Particle Interactions II,17:30,20,503,Tsubasa Kotani,"Data Analysis Center for Geomagnetism and Space Magnetism, G",Harmonic structure of lower hybrid and upper hybrid waves driven by energetic particles
 A1-5: Plasma surface modification,17:40,20,402+403,Haw Jiunn Woo,Universiti Malaya,LOW POWER 50 HZ ARGON GLOW DISCHARGE FOR SURFACE MODIFICATION OF POLYSTYRENE AND POLYTETRAFLUOROETHYLENE
-MF1-4: Integrated Modelling,18:00,20,409,Jie Zhang,University of Science and Technology of China,Evaluation of pellet fueling depth and its impact on fusion performances in fusion reactors
+MF1-4: Integrated Modelling,17:40,20,409,Jie Zhang,University of Science and Technology of China,Evaluation of pellet fueling depth and its impact on fusion performances in fusion reactors
 A2-6: Bio Applications,17:50,20,405+406,Yuzuru Ikehara,Chiba University,Plasma application will open the research to analyze life activity directly observed using an optical microscope by electron microscope.
 B1-7: Diagnostics,17:50,15,413,Xiangming Liu,"Laser Fusion Research Center, China Academy of Engineering P",Backscatter diagnostics at the 100-kJ laser facility for laser-driven hohlraum applications
 B2-4: Plasma fundamental I,17:50,20,504+505,Akira Sasaki,QST,Atomic Processes in laser produced tin plasmas for application to extreme ultra-violet (EUV) lithography
@@ -145,7 +145,7 @@ MF2-4: Physics of edge plasmas,17:50,20,410,Jaehyun Lee,Korea Institute of Fusio
 SA-4: Small-scale phenomena/CME/Stellar CME,17:50,20,502,Hong-Peng Lu,Guizhou University,Detecting Stellar CMEs Using Time-Domain Spectroscopy from LAMOST
 SG-4: Wave-Particle Interactions II,17:50,20,503,Ammarah Sheikh,Government Jinnah Islamia Graduate College Sialkot,Revisiting the analytical and numerical analysis of Bump on tail Instability by reduced Cairns distribution
 A1-5: Plasma surface modification,18:00,20,402+403,Ruixue Wang,Beijing University of Chemical Technology,Atmospheric-Pressure Low-Temperature Plasma for Thin Film Deposition on Metallic Substrates
-MF1-4: Integrated Modelling,18:20,20,409,Shinichiro Kado,Kyoto University,Dynamic Evolution of Pellet Fueling from Ablation Cloud to Reheat Mode in Heliotron J
+MF1-4: Integrated Modelling,18:00,20,409,Shinichiro Kado,Kyoto University,Dynamic Evolution of Pellet Fueling from Ablation Cloud to Reheat Mode in Heliotron J
 B1-7: Diagnostics,18:05,15,413,Pradoong Suanpoot,Maejo University Phrae Campus,Electron Temperature Investigation in Ar/N₂ Mixture Gas in a Non-Thermal Downstream Plasma Jet Using a Plasma Propagation Speed Model
 A2-6: Bio Applications,18:10,15,405+406,Duc Ba Nguyen,Duy Tan University,Role of liquid dielectric and its application for developing a dielectric barrier discharge configuration for cold plasma jet generation
 L1-4: Mima Memorial,18:10,20,411,Kimitaka Itoh,Chubu University,In memory of Prof. Mima - Fusion Science in His Days -
@@ -155,7 +155,7 @@ SA-4: Small-scale phenomena/CME/Stellar CME,18:10,15,502,Kamlesh Bora,Max Planck
 SG-4: Wave-Particle Interactions II,18:10,15,503,Peter Yoon,University of Maryland College Park,Magnetospheric radio and plasma wave emissions: Quasilinear analysis of Juno spacecraft data
 A1-5: Plasma surface modification,18:20,15,402+403,Pradeep Lamichhane,University of warwick,NOₓ Production in a Stagnant Liquid Layer Using Combined Submerged Plasma Micro-Jets: Synergistic Effects of Jet Dynamics and Catalysts
 B1-7: Diagnostics,18:20,15,413,Tomoyuki Murakami,Seikei University,Complex network analysis in plasma chemistry
-MF1-4: Integrated Modelling,18:40,20,409,Tokihiko Tokuzawa,National Institute for Fusion Science,Review of radio plasma physics for fusion science
+MF1-4: Integrated Modelling,18:20,20,409,Tokihiko Tokuzawa,National Institute for Fusion Science,Review of radio plasma physics for fusion science
 A2-6: Bio Applications,18:25,15,405+406,Alam Md Jahangir,Shizuoka University,Drug Delivery in Brain Endothelial Cells by Cold Atmospheric Microplasma
 L2-4: QED and radiation,18:25,15,412,Shih-Chi Kao,National Central University,Comprehensive Diagnosis of Laser-Plasma Interaction in Capillary Waveguides for High-Harmonic Generation
 MF1-4: Integrated Modelling,18:40,20,409,Ahmed Diallo,Princeton Plasma Physics Laboratory,Spin-Polarized Fuel for Enhanced Tritium Self-Sufficiency and Electric Power Output
