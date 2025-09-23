@@ -209,6 +209,17 @@
             white-space: nowrap;
         }
 
+        .talk-delay-badge {
+            font-size: 11px;
+            font-weight: 600;
+            color: #d63384;
+            background: #f8d7da;
+            padding: 2px 5px;
+            border-radius: 10px;
+            white-space: nowrap;
+            margin-left: 4px;
+        }
+
         .talk-room {
             background: #e9ecef;
             padding: 4px 8px;
@@ -360,6 +371,11 @@
         let hidePastTalks = true;
         let currentDay = null;
         let totalTalks = 0;
+
+        // Session-specific time offsets (in minutes)
+        const sessionOffsets = {
+            "MF1-4: Integrated Modelling": 20
+        };
 
         // Bitmap operations for Base64 URL-safe encoding
         function createEmptyBitmap(numBits) {
@@ -617,6 +633,24 @@
             return `${dayDate}-${talk.Time}-${talk.Speaker}-${talk.Title}`.replace(/[^a-zA-Z0-9]/g, '-');
         }
 
+        // Get display time with session offset applied
+        function getDisplayTime(talk) {
+            const offset = sessionOffsets[talk.Session] || 0;
+            if (offset === 0) return talk.Time;
+
+            const [hours, minutes] = talk.Time.split(':').map(Number);
+            const totalMinutes = hours * 60 + minutes + offset;
+            const newHours = Math.floor(totalMinutes / 60) % 24;
+            const newMinutes = totalMinutes % 60;
+
+            return `${newHours.toString().padStart(2, '0')}:${newMinutes.toString().padStart(2, '0')}`;
+        }
+
+        // Check if a session has a time offset
+        function isSessionDelayed(sessionName) {
+            return sessionOffsets[sessionName] && sessionOffsets[sessionName] > 0;
+        }
+
         // Load all CSV files
         async function loadScheduleData() {
             const days = [
@@ -718,16 +752,20 @@
                 if (talks.indexOf(talk) < 3) {
                 }
 
+                const displayTime = getDisplayTime(talk);
+                const isDelayed = isSessionDelayed(talk.Session);
+
                 html += `
-                    <div class="talk-card ${isStarted ? 'past' : ''} ${isChecked ? 'checked' : ''} ${isHidden ? 'hidden' : ''}" 
+                    <div class="talk-card ${isStarted ? 'past' : ''} ${isChecked ? 'checked' : ''} ${isHidden ? 'hidden' : ''}"
                          data-talk-id="${talkId}">
                         <div class="talk-header">
-                            <input type="checkbox" class="talk-checkbox" 
-                                   ${isChecked ? 'checked' : ''} 
+                            <input type="checkbox" class="talk-checkbox"
+                                   ${isChecked ? 'checked' : ''}
                                    onchange="toggleTalkCheck('${talkId}')">
                             <div class="talk-meta">
                                 <span class="talk-time">
-                                    ${talk.Time}
+                                    ${displayTime}
+                                    ${isDelayed ? '<span class="talk-delay-badge">+20 min</span>' : ''}
                                     ${talk.Duration ? `<span class="talk-duration">${talk.Duration} min</span>` : ''}
                                 </span>
                                 <span class="talk-room">${talk.Room}</span>
